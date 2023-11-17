@@ -1,5 +1,14 @@
 [
     {
+    "name": "XRAI Glass",
+    "version": "v20231113.10000087",
+    "source": "Xrai",
+    "size": "105 MB",
+    "download": "https://cdn.xrai.glass/share/beam/xrai-beam.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Xrai.png",
+    "category": "Tools"
+    },
+    {
       "name": "Amazon Kindle",
       "version": "8.89.3.0(2.0.2766.0)",
       "source": "Apkpure",
