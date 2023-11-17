@@ -22,6 +22,7 @@
       "source": "apkpure.com",
       "size": "9.36 MB",
       "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
       "category": "Other"
     },
     {
@@ -30,6 +31,7 @@
       "source": "Apkpure",
       "size": "134.61 MB",
       "download": "https://download.xrai.glass/apks/Apple%20Music_4.5.0_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AppleMusic.png",
       "category": "Entertainment"
     },
     {
@@ -38,6 +40,7 @@
       "source": "Aptoide",
       "size": "11.39 MB",
       "download": "https://download.xrai.glass/apks/AptoideTV-5.1.2.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aptoide_TV.png",
       "category": "Utilities"
     },
     {
@@ -46,6 +49,7 @@
       "source": "Apkpure",
       "size": "5.98 MB",
       "download": "https://download.xrai.glass/apks/AuroraStore_4.3.5.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aurora_Store.png",
       "category": "Utilities"
     },
     {
@@ -54,6 +58,7 @@
       "source": "mod-castreceiver-mod-apk",
       "size": "13.10 MB",
       "download": "https://download.xrai.glass/apks/com-mod-castreceiver-mod-apk-1-6-0-20212130.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CastReceiver.png",
       "category": "Other"
     },
     {
@@ -62,6 +67,7 @@
       "source": "Apkpure",
       "size": "7.67 MB",
       "download": "https://download.xrai.glass/apks/Cx%20File%20Explorer_2.0.3_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CX_File_Explorer.png",
       "category": "Utilities"
     },
     {
@@ -70,6 +76,7 @@
       "source": "Apkpure",
       "size": "259.42 MB",
       "download": "https://download.xrai.glass/apks/Discord_ Talk,%20Chat%20&%20Hang%20Out_204.18%20-%20Stable_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Discord.png",
       "category": "Social Media"
     },
     {
@@ -78,6 +85,7 @@
       "source": "Apkpure",
       "size": "35.06 MB",
       "download": "https://download.xrai.glass/apks/Disney+_2.25.2-rc3_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/DisneyPlus.png",
       "category": "Entertainment"
     },
     {
@@ -86,6 +94,7 @@
       "source": "Apkpure",
       "size": "70.44 MB",
       "download": "https://download.xrai.glass/apks/Emby%20for%20Android%20TV_2.0.98g_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Emby_for_Android_TV.png",
       "category": "Entertainment"
     },
     {
@@ -94,6 +103,7 @@
       "source": "Apkpure",
       "size": "91.43 MB",
       "download": "https://download.xrai.glass/apks/Firefox%20Fast%20&%20Private%20Browser_120.0_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/FireFox.png",
       "category": "Other"
     },
     {
@@ -102,6 +112,7 @@
       "source": "Apkpure",
       "size": "1.90 MB",
       "download": "https://download.xrai.glass/apks/Floating%20Clock_1.1.5_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Floating_Clock.png",
       "category": "Other"
     },
     {
@@ -110,6 +121,7 @@
       "source": "Apkpure",
       "size": "130.67 MB",
       "download": "https://download.xrai.glass/apks/Google%20Chrome_%20Fast%20&%20Secure_118.0.5993.48_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Chrome.png",
       "category": "Other"
     },
     {
@@ -118,6 +130,7 @@
       "source": "Apkpure",
       "size": "47.22 MB",
       "download": "https://download.xrai.glass/apks/Google%20Earth_10.40.0.2_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Google_Earth.png",
       "category": "Other"
     },
     {
@@ -126,6 +139,7 @@
       "source": "Apkpure",
       "size": "12.78 MB",
       "download": "https://download.xrai.glass/apks/Hulu_%20Stream%20TV%20shows%20&%20movies_5.3.0+12541-google_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Hulu.png",
       "category": "Other"
     },
     {
@@ -150,6 +164,7 @@
       "source": "Apkpure",
       "size": "35.64 MB",
       "download": "https://download.xrai.glass/apks/Moon+%20Reader_8.5_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonPlus_Reader.png",
       "category": "Other"
     },
     {
@@ -158,6 +173,7 @@
       "source": "apkcombo.com",
       "size": "6.41 MB",
       "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
       "category": "Other"
     },
     {
@@ -166,6 +182,7 @@
       "source": "Apkpure",
       "size": "127.54 MB",
       "download": "https://download.xrai.glass/apks/MX%20Player_1.74.3_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MX_Player.png",
       "category": "Other"
     },
     {
@@ -174,6 +191,7 @@
       "source": "Apkpure",
       "size": "10.39 MB",
       "download": "https://download.xrai.glass/apks/NewPipe_0.25.2_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NewPipe.png",
       "category": "Other"
     },
     {
@@ -182,6 +200,7 @@
       "source": "apkcombo.com",
       "size": "120.75 MB",
       "download": "https://download.xrai.glass/apks/Opera_78.5.4143.75924_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Opera.png",
       "category": "Other"
     },
     {
@@ -190,6 +209,7 @@
       "source": "Apkpure",
       "size": "55.26 MB",
       "download": "https://download.xrai.glass/apks/Paramount+_12.0.70_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ParamountPlus.png",
       "category": "Entertainment"
     },
     {
@@ -198,6 +218,7 @@
       "source": "Apkpure",
       "size": "18.06 MB",
       "download": "https://download.xrai.glass/apks/Parsec_3.150.046.00_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Parsec.png",
       "category": "Gaming"
     },
     {
@@ -206,6 +227,7 @@
       "source": "Apkpure",
       "size": "82.53 MB",
       "download": "https://download.xrai.glass/apks/Reddit_2023.45.0_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Reddit.png",
       "category": "Social Media"
     },
     {
@@ -214,6 +236,7 @@
       "source": "apkcombo.com",
       "size": "6.57 MB",
       "download": "https://download.xrai.glass/apks/settings%20app%20-%20All%20settings_1.9_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AllSettings.png",
       "category": "Utilities"
     },
     {
@@ -230,6 +253,7 @@
       "source": "Apkpure",
       "size": "2.63 MB",
       "download": "https://download.xrai.glass/apks/SmartTV_twitch_3_0_350.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SmartTwitch.png",
       "category": "Entertainment"
     },
     {
@@ -238,6 +262,7 @@
       "source": "Apkpure",
       "size": "13.43 MB",
       "download": "https://download.xrai.glass/apks/TitanTV_3.0.4_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/TitanTV_Guide.png",
       "category": "Entertainment"
     },
     {
@@ -246,6 +271,7 @@
       "source": "Apkpure",
       "size": "34.48 MB",
       "download": "https://download.xrai.glass/apks/VLC%20for%20Android_3.5.4_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/VLC.png",
       "category": "Entertainment"
     },
     {
@@ -254,6 +280,7 @@
       "source": "Apkpure",
       "size": "13.25 MB",
       "download": "https://download.xrai.glass/apks/Weather%20forecast_82.01_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather_Forecast.png",
       "category": "Other"
     },
     {
@@ -262,6 +289,7 @@
       "source": "Apkpure",
       "size": "86.33 MB",
       "download": "https://download.xrai.glass/apks/WhatsApp%20Messenger_2.23.24.23_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Whatsapp.png",
       "category": "Social Media"
     },
     {
@@ -270,6 +298,7 @@
       "source": "Apkpure",
       "size": "8.58 MB",
       "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WireGuardVPN.png",
       "category": "Productivity"
     }
 ]
