@@ -23,6 +23,7 @@
       "source": "apkcombo.com",
       "size": "3.30 MB",
       "download": "https://download.xrai.glass/apks/APKCombo%20Installer_4.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/APKCombo.png",
       "category": "Utilities"
     },
     {
@@ -157,6 +158,7 @@
       "source": "Apkpure",
       "size": "15.91 MB",
       "download": "https://download.xrai.glass/apks/Microsoft%20Outlook%20Lite_%20Email_3.18.2-minApi24_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook_Lite.png",
       "category": "Other"
     },
     {
@@ -165,6 +167,7 @@
       "source": "Apkpure",
       "size": "139.48 MB",
       "download": "https://download.xrai.glass/apks/Microsoft%20Outlook_4.2227.4_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
       "category": "Other"
     },
     {
