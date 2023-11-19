@@ -63,6 +63,24 @@
       "category": "Utilities"
     },
     {
+      "name": "BBC",
+      "version": "7.1.1.5388",
+      "source": "Apkcombo",
+      "size": "34.75",
+      "download": "https://download.xrai.glass/apks/BBC News_7.1.1.5388_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BBC.png",
+      "category": "Reading"
+    },
+    {
+      "name": "Bloomberg",
+      "version": "2.21.228657.1.53024fc",
+      "source": "Apkcombo",
+      "size": "18.43 MB",
+      "download": "https://download.xrai.glass/apks/BloombergLP for Tablet_2.21.228657.1.53024fc_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg.png",
+      "category": "Reading"
+    },
+    {
       "name": "Cast Receiver",
       "version": "1.6.0",
       "source": "mod-castreceiver-mod-apk",
