@@ -186,7 +186,16 @@
       "size": "12.78 MB",
       "download": "https://download.xrai.glass/apks/Hulu_%20Stream%20TV%20shows%20&%20movies_5.3.0+12541-google_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Hulu.png",
-      "category": "Other"
+      "category": "Entertainment"
+    },
+    {
+      "name": "Kodi",
+      "version": "20.2 Nexus",
+      "source": "Kodi.tv/download/android",
+      "size": "68.83 MB",
+      "download": "https://download.xrai.glass/apks/kodi-20.2-Nexus-arm64-v8a.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kodi.png",
+      "category": "Entertainment"
     },
     {
       "name": "Microsoft Outlook Lite",
