@@ -33,7 +33,7 @@
       "size": "9.36 MB",
       "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
-      "category": "Other"
+      "category": "Utilities"
     },
     {
       "name": "Apple Music",
@@ -87,7 +87,7 @@
       "size": "13.10 MB",
       "download": "https://download.xrai.glass/apks/com-mod-castreceiver-mod-apk-1-6-0-20212130.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CastReceiver.png",
-      "category": "Other"
+      "category": "Tools"
     },
     {
       "name": "CNN",
@@ -105,7 +105,7 @@
       "size": "7.67 MB",
       "download": "https://download.xrai.glass/apks/Cx%20File%20Explorer_2.0.3_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CX_File_Explorer.png",
-      "category": "Utilities"
+      "category": "Tools"
     },
     {
       "name": "Discord",
@@ -141,7 +141,7 @@
       "size": "91.43 MB",
       "download": "https://download.xrai.glass/apks/Firefox%20Fast%20&%20Private%20Browser_120.0_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Firefox.png",
-      "category": "Other"
+      "category": "Productivity"
     },
     {
       "name": "Floating Clock",
@@ -168,7 +168,7 @@
       "size": "130.67 MB",
       "download": "https://download.xrai.glass/apks/Google%20Chrome_%20Fast%20&%20Secure_118.0.5993.48_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Chrome.png",
-      "category": "Other"
+      "category": "Productivity"
     },
     {
       "name": "Google Earth",
@@ -204,7 +204,7 @@
       "size": "15.91 MB",
       "download": "https://download.xrai.glass/apks/Microsoft%20Outlook%20Lite_%20Email_3.18.2-minApi24_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook_Lite.png",
-      "category": "Other"
+      "category": "Productivity"
     },
     {
       "name": "Microsoft Outlook",
@@ -213,7 +213,7 @@
       "size": "139.48 MB",
       "download": "https://download.xrai.glass/apks/Microsoft%20Outlook_4.2227.4_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
-      "category": "Other"
+      "category": "Productivity"
     },
     {
       "name": "Moon+ Reader",
@@ -231,7 +231,7 @@
       "size": "6.41 MB",
       "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
-      "category": "Other"
+      "category": "Gaming"
     },
     {
       "name": "MX Player",
@@ -240,7 +240,7 @@
       "size": "127.54 MB",
       "download": "https://download.xrai.glass/apks/MX%20Player_1.74.3_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MX_Player.png",
-      "category": "Other"
+      "category": "Entertainment"
     },
     {
       "name": "NewPipe",
@@ -267,7 +267,7 @@
       "size": "120.75 MB",
       "download": "https://download.xrai.glass/apks/Opera_78.5.4143.75924_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Opera.png",
-      "category": "Other"
+      "category": "Productivity"
     },
     {
       "name": "Paramount+",
@@ -303,7 +303,7 @@
       "size": "6.57 MB",
       "download": "https://download.xrai.glass/apks/settings%20app%20-%20All%20settings_1.9_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AllSettings.png",
-      "category": "Utilities"
+      "category": "Tools"
     },
     {
       "name": "Shortcut Maker",
@@ -312,7 +312,7 @@
       "size": "3.89 MB",
       "download": "https://download.xrai.glass/apks/Shortcut%20Maker_4.2.4_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Shortcut_Maker.png",
-      "category": "Utilities"
+      "category": "Tools"
     },
     {
       "name": "SmartTV Twitch",
