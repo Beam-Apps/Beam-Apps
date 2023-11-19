@@ -207,6 +207,15 @@
       "category": "Other"
     },
     {
+      "name": "NPR",
+      "version": "3.7.0",
+      "source": "Apkcombo",
+      "size": "15.48 MB",
+      "download": "https://download.xrai.glass/apks/NPR_3.7.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NPR.png",
+      "category": "Reading"
+    },
+    {
       "name": "Opera",
       "version": "78.5.4143.75924",
       "source": "apkcombo.com",
