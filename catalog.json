@@ -88,6 +88,15 @@
       "download": "https://download.xrai.glass/apks/Discord_ Talk,%20Chat%20&%20Hang%20Out_204.18%20-%20Stable_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Discord.png",
       "category": "Social Media"
+    },    
+    {
+      "name": "Tailscale",
+      "version": "1.52.0",
+      "source": "Apkpure",
+      "size": "37.49 MB",
+      "download": "https://download.xrai.glass/apks/Discord_ Talk,%20Chat%20&%20Hang%20Out_204.18%20-%20Stable_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/tailscale.png",
+      "category": "Productivity"
     },
     {
       "name": "Disney+",
