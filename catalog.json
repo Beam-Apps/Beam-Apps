@@ -288,6 +288,15 @@
       "category": "Productivity"
     },
     {
+      "name": "The New York Times",
+      "version": "16.36",
+      "source": "Apkcombo",
+      "size": "40.81 MB",
+      "download": "https://download.xrai.glass/apks/The New York Times_10.36.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/The_New_York_Times.png",
+      "category": "Reading"
+    },
+    {
       "name": "TitanTV",
       "version": "3.0.4",
       "source": "Apkpure",
