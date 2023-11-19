@@ -72,6 +72,15 @@
       "category": "Other"
     },
     {
+      "name": "CNN",
+      "version": "7.39.0",
+      "source": "Apkcombo",
+      "size": "92.68 MB",
+      "download": "https://download.xrai.glass/apks/CNN News_7.39.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CNN.png",
+      "category": "Reading"
+    },
+    {
       "name": "Cx File Explorer",
       "version": "2.0.3",
       "source": "Apkpure",
@@ -124,6 +133,15 @@
       "download": "https://download.xrai.glass/apks/Floating%20Clock_1.1.5_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Floating_Clock.png",
       "category": "Other"
+    },
+    {
+      "name": "Fox News",
+      "version": "4.67.01",
+      "source": "Apkcombo",
+      "size": "32.71 MB",
+      "download": "https://download.xrai.glass/apks/Fox News - Daily Breaking News_4.67.01_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Fox_News.png",
+      "category": "Reading"
     },
     {
       "name": "Google Chrome",
