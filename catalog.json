@@ -339,7 +339,7 @@
       "size": "37.49 MB",
       "download": "https://download.xrai.glass/apks/Tailscale_1.52.0_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/tailscale.png",
-      "category": "Productivity"
+      "category": "Tools"
     },
     {
       "name": "The New York Times",
@@ -393,6 +393,6 @@
       "size": "8.58 MB",
       "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WireGuardVPN.png",
-      "category": "Productivity"
+      "category": "Tools"
     }
 ]
