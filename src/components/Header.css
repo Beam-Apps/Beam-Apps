@@ -1,0 +1,26 @@
+header {
+  background: #1C4592;
+  padding: 10px 50px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: auto;
+  color: #FBFBFE;
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    padding: 10px;
+  }
+  header h1 {
+    font-size: 16px; /*Adjust the font size for smaller screens*/
+  }
+  .btn {
+    padding: 0.6rem 1.2rem; /* Adjust the padding for smaller screens */
+    font-size: 14px; /* Adjust the font size for smaller screens */
+  }
+}

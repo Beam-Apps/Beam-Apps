@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #1a1a1a;
+  color: #fff;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+/* Hero section styles */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  height: 100vh; /* Full viewport height */
+}
+
+/* Text container styles */
+.text-container {
+  max-width: 600px;
+  text-align: right;
+}
+
+/* Text styles */
+.text {
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .text-container {
+    max-width: 100%;
+    margin-top: 20px;
+    text-align: center;
+  }
+}
