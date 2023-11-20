@@ -1,11 +1,53 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
-* {
+
+body {
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  z-index: -1;
+  opacity: 1;
+  transition: opacity 1s, background 1s;
+}
+
+body.light-mode::before {
+  background: #04112c;
+  opacity: 1;
+}
+
+:root[data-theme="light"] {
+  --text: #130901;
+  --background: #ffffff;
+  --primary: #873503;
+  --secondary: #fdd7bf;
+  --accent: #ea5d06;
+}
+:root[data-theme="dark"] {
+  --text: #fef4ec;
+  --background: #000000;
+  --primary: #fcab78;
+  --secondary: #401a02;
+  --accent: #f96d15;
 }
 
 .App {
   text-align: center;
+}
+
+button:hover {
+  /*This is for all the buttons */
+  background-color: #949494;
 }
