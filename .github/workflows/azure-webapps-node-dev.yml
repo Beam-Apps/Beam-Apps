@@ -48,11 +48,14 @@ jobs:
         npm run build --if-present
         # npm run test --if-present
 
+    - name: Archive production artifacts
+      run: zip -r artifacts.zip .
+    
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v3
       with:
         name: node-app
-        path: .
+        path: artifacts.zip
 
   deploy:
     permissions:
@@ -68,6 +71,9 @@ jobs:
       uses: actions/download-artifact@v3
       with:
         name: node-app
+
+    - name: Extract artifacts
+      run: unzip artifacts.zip -d .
 
     - name: 'Deploy to Azure WebApp'
       id: deploy-to-webapp
