@@ -7,16 +7,16 @@
   height: 40px;
   width: 100px;
   margin: 10px;
+
+  &.dark {
+    background: rgba(45, 55, 87, 0.589);
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+    transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+      background 1.5s 0.5s;
+  }
 }
 
 .button:hover {
   transform: scale(1.15);
-}
-
-.dark {
-  background: rgba(45, 55, 87, 0.589);
-  overflow: hidden;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
-  transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    background 1.5s 0.5s;
 }

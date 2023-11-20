@@ -1,4 +1,3 @@
-import React from "react";
 import DarkModeToggle from "./DarkModeToggle";
 import styles from "./Header.module.css";
 

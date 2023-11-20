@@ -1,6 +1,5 @@
-import React from 'react';
-import { useAuth0 } from '@auth0/auth0-react';
-import './UpdateForm.css';
+import { useAuth0 } from "@auth0/auth0-react";
+import "./UpdateForm.css";
 
 const AuthenticationPopup = ({ onClose }) => {
   const { loginWithRedirect } = useAuth0();
@@ -15,7 +14,12 @@ const AuthenticationPopup = ({ onClose }) => {
     <div className="authentication-popup">
       <div className="popup-content">
         <p>Click the button to authenticate!</p>
-        <button onClick={() => loginWithRedirect()} style={{marginLeft: '70px'}}>Log In</button>
+        <button
+          onClick={() => loginWithRedirect()}
+          style={{ marginLeft: "70px" }}
+        >
+          Log In
+        </button>
       </div>
     </div>
   );
