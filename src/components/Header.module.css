@@ -1,15 +1,17 @@
 header {
-  background: #1C4592;
+  background: #1c4592;
   padding: 10px 50px;
-  text-align: left;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-align: center;
+  padding-left: 8%;
+  padding-right: 8%;
 }
 
-header h1 {
+.heading {
   font-size: auto;
-  color: #FBFBFE;
+  color: #fbfbfe;
 }
 
 @media screen and (max-width: 600px) {

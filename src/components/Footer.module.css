@@ -2,18 +2,18 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #1C4592;
-  color: #CEE9FD;
+  background-color: #1c4592;
+  color: #cee9fd;
   padding: 20px;
   text-align: center;
 }
 
-.footer a {
-  color: #CEE9FD;
+.link {
+  color: #cee9fd;
   text-decoration: none;
   font-weight: bold;
 }
 
-.footer a:hover {
+.link:hover {
   text-decoration: underline;
 }
