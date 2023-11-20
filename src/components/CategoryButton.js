@@ -1,5 +1,5 @@
 import { useTheme } from "../context/ThemeContext";
-import styles from "./CategoryButton.module.css";
+import styles from "./CategoryButton.module.scss";
 import cn from "classnames";
 
 export const CategoryButton = ({ active, category, onClick }) => {
