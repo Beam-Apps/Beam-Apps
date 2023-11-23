@@ -288,6 +288,15 @@
       "category": "Gaming"
     },
     {
+      "name": "Plex",
+      "version": "10.3.0.4685",
+      "source": "Apkpure",
+      "size": "138.88 MB",
+      "download": "https://download.xrai.glass/apks/Plex Stream Movies & TV_10.3.0.4685_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Plex.png",
+      "category": "Gaming"
+    },
+    {
       "name": "PS Remote Play",
       "version": "6.5.2",
       "source": "Apkpure",
