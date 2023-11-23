@@ -288,6 +288,15 @@
       "category": "Gaming"
     },
     {
+      "name": "PS Remote Play",
+      "version": "6.5.2",
+      "source": "Apkpure",
+      "size": "27.15 MB",
+      "download": "https://download.xrai.glass/apks/PS Remote Play_6.5.2_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/PSPlay.png",
+      "category": "Gaming"
+    },
+    {
       "name": "Reddit",
       "version": "2023.45.0",
       "source": "Apkpure",
@@ -394,5 +403,14 @@
       "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WireGuardVPN.png",
       "category": "Tools"
+    },
+    {
+      "name": "XBXPlay Remote Play",
+      "version": "1.0.0",
+      "source": "Apkpure",
+      "size": "64.84 MB",
+      "download": "https://download.xrai.glass/apks/XBXPlay Remote Play_1.0.0_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/XBXPlay.png",
+      "category": "Games"
     }
 ]
