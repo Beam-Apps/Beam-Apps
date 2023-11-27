@@ -261,6 +261,15 @@
       "category": "Entertainment"
     },
     {
+      "name": "Nova Launcher",
+      "version": "8.0.8",
+      "source": "Apkcombo",
+      "size": "10.77 MB",
+      "download": "https://download.xrai.glass/apks/Nova Launcher_8.0.8_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/nova.png",
+      "category": "Launchers"
+    },
+    {
       "name": "NPR",
       "version": "3.7.0",
       "source": "Apkcombo",
