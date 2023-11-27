@@ -63,6 +63,24 @@
       "category": "Stores"
     },
     {
+      "name": "Battery Indicator",
+      "version": "2.8.11",
+      "source": "Apkcombo",
+      "size": "8.86 MB",
+      "download": "https://download.xrai.glass/apks/Battery Indicator_2.8.11_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BatteryIndicator.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Battery Widget Reborn",
+      "version": "4.8.0",
+      "source": "Apkcombo",
+      "size": "9.58 MB",
+      "download": "https://download.xrai.glass/apks/Battery Widget Reborn_4.8.0_FREE_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BWReborn.png",
+      "category": "Tools"
+    },
+    {
       "name": "BBC",
       "version": "7.1.1.5388",
       "source": "Apkcombo",
@@ -312,6 +330,15 @@
       "size": "6.57 MB",
       "download": "https://download.xrai.glass/apks/settings%20app%20-%20All%20settings_1.9_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AllSettings.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Shortcut Creator",
+      "version": "3.2.4",
+      "source": "Apkcombo",
+      "size": "3.21 MB",
+      "download": "https://download.xrai.glass/apks/Shortcut Creator_3.2.4_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ShortcutCreator.png",
       "category": "Tools"
     },
     {
