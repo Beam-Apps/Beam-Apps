@@ -405,12 +405,30 @@
       "category": "Entertainment"
     },
     {
+      "name": "Weather",
+      "version": "1.9.0.1",
+      "source": "Apkcombo",
+      "size": "18.50 MB",
+      "download": "https://download.xrai.glass/apks/Local Weather：Weather Forecast_1.9.0.1_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather.png",
+      "category": "Other"
+    },
+    {
       "name": "Weather Forecast",
       "version": "82.01",
       "source": "Apkpure",
       "size": "13.25 MB",
       "download": "https://download.xrai.glass/apks/Weather%20forecast_82.01_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather_Forecast.png",
+      "category": "Other"
+    },
+    {
+      "name": "Weather Weawow",
+      "version": "6.1.0",
+      "source": "Apkcombo",
+      "size": "11.63 MB",
+      "download": "https://download.xrai.glass/apks/Weather & Widget - Weawow_6.1.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weawow.png",
       "category": "Other"
     },
     {
