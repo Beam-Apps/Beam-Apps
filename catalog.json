@@ -24,7 +24,7 @@
       "size": "3.30 MB",
       "download": "https://download.xrai.glass/apks/APKCombo%20Installer_4.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/APKCombo.png",
-      "category": "Utilities"
+      "category": "Stores"
     },
     {
       "name": "APKPure",
@@ -33,7 +33,7 @@
       "size": "9.36 MB",
       "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
-      "category": "Utilities"
+      "category": "Stores"
     },
     {
       "name": "Apple Music",
@@ -51,7 +51,7 @@
       "size": "11.39 MB",
       "download": "https://download.xrai.glass/apks/AptoideTV-5.1.2.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aptoide_TV.png",
-      "category": "Utilities"
+      "category": "Stores"
     },
     {
       "name": "AuroraStore",
@@ -60,7 +60,7 @@
       "size": "5.98 MB",
       "download": "https://download.xrai.glass/apks/AuroraStore_4.3.5.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aurora_Store.png",
-      "category": "Utilities"
+      "category": "Stores"
     },
     {
       "name": "BBC",
