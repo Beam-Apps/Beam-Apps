@@ -378,6 +378,15 @@
       "category": "Entertainment"
     },
     {
+      "name": "Tachiyomi",
+      "version": "0.14.7",
+      "source": "https://tachiyomi.org/",
+      "size": "49.11 MB",
+      "download": "https://download.xrai.glass/apks/tachiyomi-v0.14.7.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Tachiyomi.png",
+      "category": "Reading"
+    },
+    {
       "name": "Tailscale",
       "version": "1.52.0",
       "source": "Apkpure",
