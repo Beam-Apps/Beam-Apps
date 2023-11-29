@@ -9,6 +9,15 @@
     "category": "Tools"
     },
     {
+      "name": "3D Sense Clock and Weather",
+      "version": "6.23.0",
+      "source": "Apkcombo",
+      "size": "28.36 MB",
+      "download": "https://download.xrai.glass/apks/3D Sense Clock & Weather_6.23.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/3DSenseClockAndWeather.png",
+      "category": "Tools"
+    },
+    {
       "name": "Amazon Kindle",
       "version": "8.89.3.0(2.0.2766.0)",
       "source": "Apkpure",
@@ -198,6 +207,24 @@
       "category": "Entertainment"
     },
     {
+      "name": "IconPackStudio",
+      "version": "2.2_023",
+      "source": "Apkcombo",
+      "size": "52.10 MB",
+      "download": "https://download.xrai.glass/apks/Icon Pack Studio_2.2 build 023_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/IconPackStudio.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Imgur",
+      "version": "7.6.1.0",
+      "source": "Apkcombo",
+      "size": "61.25 MB",
+      "download": "https://download.xrai.glass/apks/Imgur_7.6.1.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Imgur.png",
+      "category": "Tools"
+    },
+    {
       "name": "Kodi",
       "version": "20.2 Nexus",
       "source": "Kodi.tv/download/android",
@@ -223,6 +250,15 @@
       "download": "https://download.xrai.glass/apks/Microsoft%20Outlook_4.2227.4_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
       "category": "Productivity"
+    },
+    {
+      "name": "Minma Icon Pack",
+      "version": "2.5",
+      "source": "Apkcombo",
+      "size": "17.07 MB",
+      "download": "https://download.xrai.glass/apks/Minma Icon Pack_2.5_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MinmaIconPack.png",
+      "category": "Tools"
     },
     {
       "name": "Moon+ Reader",
