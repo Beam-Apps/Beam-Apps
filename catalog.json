@@ -29,7 +29,7 @@
     {
       "name": "APKCombo Installer",
       "version": "4.0",
-      "source": "apkcombo.com",
+      "source": "Apkcombo",
       "size": "3.30 MB",
       "download": "https://download.xrai.glass/apks/APKCombo%20Installer_4.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/APKCombo.png",
@@ -38,7 +38,7 @@
     {
       "name": "APKPure",
       "version": "v3.19.63",
-      "source": "apkpure.com",
+      "source": "Apkpure",
       "size": "9.36 MB",
       "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
@@ -61,6 +61,15 @@
       "download": "https://download.xrai.glass/apks/AptoideTV-5.1.2.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aptoide_TV.png",
       "category": "Stores"
+    },
+    {
+      "name": "Astron",
+      "version": "1.0.1",
+      "source": "https://astron.cc/web/#home",
+      "size": "61.36 MB",
+      "download": "https://download.xrai.glass/apks/astron_1.0.1.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Astron.png",
+      "category": "Entertainment"
     },
     {
       "name": "AuroraStore",
@@ -272,7 +281,7 @@
     {
       "name": "Moonlight",
       "version": "12.0.2",
-      "source": "apkcombo.com",
+      "source": "Apkcombo",
       "size": "6.41 MB",
       "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
@@ -317,7 +326,7 @@
     {
       "name": "Opera",
       "version": "78.5.4143.75924",
-      "source": "apkcombo.com",
+      "source": "Apkcombo",
       "size": "120.75 MB",
       "download": "https://download.xrai.glass/apks/Opera_78.5.4143.75924_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Opera.png",
@@ -369,9 +378,18 @@
       "category": "Social Media"
     },
     {
+      "name": "Send Anywhere",
+      "version": "23.1.10",
+      "source": "apkcombo",
+      "size": "30.82 MB",
+      "download": "https://download.xrai.glass/apks/Send Anywhere_23.1.10_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SendAnywhere.png",
+      "category": "Tools"
+    },
+    {
       "name": "Settings App - All Settings",
       "version": "1.9",
-      "source": "apkcombo.com",
+      "source": "apkcombo",
       "size": "6.57 MB",
       "download": "https://download.xrai.glass/apks/settings%20app%20-%20All%20settings_1.9_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AllSettings.png",
