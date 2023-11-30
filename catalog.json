@@ -72,6 +72,15 @@
       "category": "Entertainment"
     },
     {
+      "name": "ATV Launcher",
+      "version": "0.11",
+      "source": "Apkcombo",
+      "size": "1.95 MB",
+      "download": "https://download.xrai.glass/apks/ATV Launcher_0.0.11-free_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ATVLauncher.png",
+      "category": "Launchers"
+    },
+    {
       "name": "AuroraStore",
       "version": "4.3.5",
       "source": "Apkpure",
@@ -358,6 +367,15 @@
       "download": "https://download.xrai.glass/apks/Plex Stream Movies & TV_10.3.0.4685_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Plex.png",
       "category": "Gaming"
+    },
+    {
+      "name": "Projectivy Launcher",
+      "version": "4.36",
+      "source": "Apkcombo",
+      "size": "7.78 MB",
+      "download": "https://download.xrai.glass/apks/Projectivy Launcher_4.36_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Projectivy.png",
+      "category": "Launchers"
     },
     {
       "name": "PS Remote Play",
