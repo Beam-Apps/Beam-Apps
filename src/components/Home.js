@@ -26,7 +26,7 @@ const Home = ({ links, selectedCategory, handleCategoryChange }) => {
             [styles.dark]: theme === "dark",
           })}
         >
-          Categories:{" "}
+          Categories:
         </span>
       </div>
       <div className={styles.container} style={{ margin: "0px" }}>
