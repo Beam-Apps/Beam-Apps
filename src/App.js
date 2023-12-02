@@ -1,7 +1,5 @@
 import { useState, useEffect } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
 import Home from "./components/Home";
 import UpdateForm from "./components/UpdateForm";
 
@@ -16,9 +14,7 @@ const App = () => {
 
   const fetchLinks = async () => {
     try {
-      const response = await fetch(
-        "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json"
-      );
+      const response = await fetch(process.env.REACT_APP_LINKS_ENDPOINT);
       if (response.ok) {
         const data = await response.json();
         console.log("Fetched links successfully:", data);
