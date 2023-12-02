@@ -63,10 +63,7 @@ export const Card = ({
         <div className={styles.back}>
           <div className={styles.backContent}>
             <div className={styles.icons}>
-              <a
-                href="https://www.virustotal.com/gui/file/69c5c2b18d7ff85778b70e043b790280482973793f155882f2360bb86269365a?nocache=1"
-                target="_blanK"
-              >
+              <a href={virusTotal} target="_blanK">
                 {virusTotal && <img src={Shield} />}
               </a>
             </div>
