@@ -135,6 +135,15 @@
       "category": "Reading"
     },
     {
+    "name": "Bluetooth Keyboard/Mouse",
+    "version": "5.4.6",
+    "source": "Apkcombo",
+    "size": "5.73 MB",
+    "download": "https://cdn.xrai.glass/share/beam/Bluetooth Keyboard & Mouse_5.4.6_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BluetoothKM.png",
+    "category": "Tools"
+    },
+    {
       "name": "Cast Receiver",
       "version": "1.6.0",
       "source": "mod-castreceiver-mod-apk",
