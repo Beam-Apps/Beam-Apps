@@ -441,6 +441,15 @@
       "category": "Social Media"
     },
     {
+      "name": "Samsung S10 Launcher",
+      "version": "16.6.0.709_53000",
+      "source": "Apkcombo",
+      "size": "45.53 MB",
+      "download": "https://download.xrai.glass/apks/S10 Launcher_16.6.0.709_53000_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/S10Launcher.png",
+      "category": "Launchers"
+    },
+    {
       "name": "Send Anywhere",
       "version": "23.1.10",
       "source": "apkcombo",
