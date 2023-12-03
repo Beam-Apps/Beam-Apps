@@ -18,6 +18,15 @@
       "category": "Other"
     },
     {
+      "name": "ADW Launcher",
+      "version": "2_2.0.1.75",
+      "source": "Apkcombo",
+      "size": "12.93 MB",
+      "download": "https://download.xrai.glass/apks/ADW Launcher 2_2.0.1.75_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ADWLauncher1.png",
+      "category": "Launchers"
+    },
+    {
       "name": "Amazon Kindle",
       "version": "8.89.3.0(2.0.2766.0)",
       "source": "Apkpure",
@@ -225,6 +234,15 @@
       "category": "Entertainment"
     },
     {
+      "name": "Hyperion Launcher",
+      "version": "2.0.51",
+      "source": "Apkcombo",
+      "size": "8.93 MB",
+      "download": "https://download.xrai.glass/apks/hyperion launcher_2.0.51_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/HyperionLauncher.png",
+      "category": "Launchers"
+    },
+    {
       "name": "IconPackStudio",
       "version": "2.2_023",
       "source": "Apkcombo",
@@ -267,6 +285,15 @@
       "size": "139.48 MB",
       "download": "https://download.xrai.glass/apks/Microsoft%20Outlook_4.2227.4_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
+      "category": "Productivity"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "version": "6.95 beta1",
+      "source": "Apkcombo",
+      "size": "87.51 MB",
+      "download": "https://download.xrai.glass/apks/Microsoft OneDrive_6.95 (Beta 1)_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/OneDrive.png",
       "category": "Productivity"
     },
     {
