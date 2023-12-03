@@ -11,6 +11,7 @@ export const Card = ({
   download,
   size,
   description,
+  notes,
   virusTotal,
 }) => {
   const [flipped, setFlipped] = useState(false);
@@ -62,12 +63,13 @@ export const Card = ({
         </div>
         <div className={styles.back}>
           <div className={styles.backContent}>
-            <div className={styles.icons}>
+            {/*<div className={styles.icons}>
               <a href={virusTotal} target="_blanK">
                 {virusTotal && <img src={Shield} />}
               </a>
-            </div>
-            <p>{description}</p>
+    </div>*/}
+            <p>{description ?? "No description found."}</p>
+            <p>{notes ?? "No notes found."}</p>
           </div>
         </div>
       </div>

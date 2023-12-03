@@ -13,10 +13,10 @@ const App = () => {
   }, []);
 
   const fetchLinks = async () => {
+    const url =
+      "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json";
     try {
-      const response = await fetch(
-        "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json"
-      );
+      const response = await fetch(url);
       if (response.ok) {
         const data = await response.json();
         console.log("Fetched links successfully:", data);
