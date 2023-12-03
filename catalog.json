@@ -9,6 +9,15 @@
     "category": "Tools"
     },
     {
+      "name": "3D Sense Clock and Weather",
+      "version": "6.23.0",
+      "source": "Apkcombo",
+      "size": "28.36 MB",
+      "download": "https://download.xrai.glass/apks/3D Sense Clock & Weather_6.23.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/3DSenseClockAndWeather.png",
+      "category": "Other"
+    },
+    {
       "name": "Amazon Kindle",
       "version": "8.89.3.0(2.0.2766.0)",
       "source": "Apkpure",
@@ -20,20 +29,20 @@
     {
       "name": "APKCombo Installer",
       "version": "4.0",
-      "source": "apkcombo.com",
+      "source": "Apkcombo",
       "size": "3.30 MB",
       "download": "https://download.xrai.glass/apks/APKCombo%20Installer_4.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/APKCombo.png",
-      "category": "Utilities"
+      "category": "Stores"
     },
     {
       "name": "APKPure",
       "version": "v3.19.63",
-      "source": "apkpure.com",
+      "source": "Apkpure",
       "size": "9.36 MB",
       "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
-      "category": "Utilities"
+      "category": "Stores"
     },
     {
       "name": "Apple Music",
@@ -51,7 +60,25 @@
       "size": "11.39 MB",
       "download": "https://download.xrai.glass/apks/AptoideTV-5.1.2.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aptoide_TV.png",
-      "category": "Utilities"
+      "category": "Stores"
+    },
+    {
+      "name": "Astron",
+      "version": "1.0.1",
+      "source": "https://astron.cc/web/#home",
+      "size": "61.36 MB",
+      "download": "https://download.xrai.glass/apks/astron_1.0.1.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Astron.png",
+      "category": "Entertainment"
+    },
+    {
+      "name": "ATV Launcher",
+      "version": "0.11",
+      "source": "Apkcombo",
+      "size": "1.95 MB",
+      "download": "https://download.xrai.glass/apks/ATV Launcher_0.0.11-free_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ATVLauncher.png",
+      "category": "Launchers"
     },
     {
       "name": "AuroraStore",
@@ -60,7 +87,25 @@
       "size": "5.98 MB",
       "download": "https://download.xrai.glass/apks/AuroraStore_4.3.5.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aurora_Store.png",
-      "category": "Utilities"
+      "category": "Stores"
+    },
+    {
+      "name": "Battery Indicator",
+      "version": "2.8.11",
+      "source": "Apkcombo",
+      "size": "8.86 MB",
+      "download": "https://download.xrai.glass/apks/Battery Indicator_2.8.11_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BatteryIndicator.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Battery Widget Reborn",
+      "version": "4.8.0",
+      "source": "Apkcombo",
+      "size": "9.58 MB",
+      "download": "https://download.xrai.glass/apks/Battery Widget Reborn_4.8.0_FREE_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BWReborn.png",
+      "category": "Tools"
     },
     {
       "name": "BBC",
@@ -144,15 +189,6 @@
       "category": "Productivity"
     },
     {
-      "name": "Floating Clock",
-      "version": "1.1.5",
-      "source": "Apkpure",
-      "size": "1.90 MB",
-      "download": "https://download.xrai.glass/apks/Floating%20Clock_1.1.5_Apkpure.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Floating_Clock.png",
-      "category": "Tools"
-    },
-    {
       "name": "Fox News",
       "version": "4.67.01",
       "source": "Apkcombo",
@@ -189,6 +225,24 @@
       "category": "Entertainment"
     },
     {
+      "name": "IconPackStudio",
+      "version": "2.2_023",
+      "source": "Apkcombo",
+      "size": "52.10 MB",
+      "download": "https://download.xrai.glass/apks/Icon Pack Studio_2.2 build 023_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/IconPackStudio.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Imgur",
+      "version": "7.6.1.0",
+      "source": "Apkcombo",
+      "size": "61.25 MB",
+      "download": "https://download.xrai.glass/apks/Imgur_7.6.1.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Imgur.png",
+      "category": "Tools"
+    },
+    {
       "name": "Kodi",
       "version": "20.2 Nexus",
       "source": "Kodi.tv/download/android",
@@ -216,6 +270,15 @@
       "category": "Productivity"
     },
     {
+      "name": "Minma Icon Pack",
+      "version": "2.5",
+      "source": "Apkcombo",
+      "size": "17.07 MB",
+      "download": "https://download.xrai.glass/apks/Minma Icon Pack_2.5_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MinmaIconPack.png",
+      "category": "Tools"
+    },
+    {
       "name": "Moon+ Reader",
       "version": "8.5",
       "source": "Apkpure",
@@ -227,7 +290,7 @@
     {
       "name": "Moonlight",
       "version": "12.0.2",
-      "source": "apkcombo.com",
+      "source": "Apkcombo",
       "size": "6.41 MB",
       "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
@@ -252,6 +315,15 @@
       "category": "Entertainment"
     },
     {
+      "name": "Nova Launcher",
+      "version": "8.0.8",
+      "source": "Apkcombo",
+      "size": "10.77 MB",
+      "download": "https://download.xrai.glass/apks/Nova Launcher_8.0.8_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/nova.png",
+      "category": "Launchers"
+    },
+    {
       "name": "NPR",
       "version": "3.7.0",
       "source": "Apkcombo",
@@ -263,7 +335,7 @@
     {
       "name": "Opera",
       "version": "78.5.4143.75924",
-      "source": "apkcombo.com",
+      "source": "Apkcombo",
       "size": "120.75 MB",
       "download": "https://download.xrai.glass/apks/Opera_78.5.4143.75924_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Opera.png",
@@ -288,6 +360,33 @@
       "category": "Gaming"
     },
     {
+      "name": "Plex",
+      "version": "10.3.0.4685",
+      "source": "Apkpure",
+      "size": "138.88 MB",
+      "download": "https://download.xrai.glass/apks/Plex Stream Movies & TV_10.3.0.4685_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Plex.png",
+      "category": "Gaming"
+    },
+    {
+      "name": "Projectivy Launcher",
+      "version": "4.36",
+      "source": "Apkcombo",
+      "size": "7.78 MB",
+      "download": "https://download.xrai.glass/apks/Projectivy Launcher_4.36_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Projectivy.png",
+      "category": "Launchers"
+    },
+    {
+      "name": "PS Remote Play",
+      "version": "6.5.2",
+      "source": "Apkpure",
+      "size": "27.15 MB",
+      "download": "https://download.xrai.glass/apks/PS Remote Play_6.5.2_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/PSPlay.png",
+      "category": "Gaming"
+    },
+    {
       "name": "Reddit",
       "version": "2023.45.0",
       "source": "Apkpure",
@@ -297,12 +396,30 @@
       "category": "Social Media"
     },
     {
+      "name": "Send Anywhere",
+      "version": "23.1.10",
+      "source": "apkcombo",
+      "size": "30.82 MB",
+      "download": "https://download.xrai.glass/apks/Send Anywhere_23.1.10_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SendAnywhere.png",
+      "category": "Tools"
+    },
+    {
       "name": "Settings App - All Settings",
       "version": "1.9",
-      "source": "apkcombo.com",
+      "source": "apkcombo",
       "size": "6.57 MB",
       "download": "https://download.xrai.glass/apks/settings%20app%20-%20All%20settings_1.9_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AllSettings.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Shortcut Creator",
+      "version": "3.2.4",
+      "source": "Apkcombo",
+      "size": "3.21 MB",
+      "download": "https://download.xrai.glass/apks/Shortcut Creator_3.2.4_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ShortcutCreator.png",
       "category": "Tools"
     },
     {
@@ -331,6 +448,15 @@
       "download": "https://download.xrai.glass/apks/com.stremio.one-1.6.8-4208741-arm64-v8a.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Stremio.png",
       "category": "Entertainment"
+    },
+    {
+      "name": "Tachiyomi",
+      "version": "0.14.7",
+      "source": "https://tachiyomi.org/",
+      "size": "49.11 MB",
+      "download": "https://download.xrai.glass/apks/tachiyomi-v0.14.7.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Tachiyomi.png",
+      "category": "Reading"
     },
     {
       "name": "Tailscale",
@@ -369,12 +495,30 @@
       "category": "Entertainment"
     },
     {
+      "name": "Weather",
+      "version": "1.9.0.1",
+      "source": "Apkcombo",
+      "size": "18.50 MB",
+      "download": "https://download.xrai.glass/apks/Local Weather：Weather Forecast_1.9.0.1_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather.png",
+      "category": "Other"
+    },
+    {
       "name": "Weather Forecast",
       "version": "82.01",
       "source": "Apkpure",
       "size": "13.25 MB",
       "download": "https://download.xrai.glass/apks/Weather%20forecast_82.01_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather_Forecast.png",
+      "category": "Other"
+    },
+    {
+      "name": "Weather Weawow",
+      "version": "6.1.0",
+      "source": "Apkcombo",
+      "size": "11.63 MB",
+      "download": "https://download.xrai.glass/apks/Weather & Widget - Weawow_6.1.0_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weawow.png",
       "category": "Other"
     },
     {
@@ -394,5 +538,14 @@
       "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WireGuardVPN.png",
       "category": "Tools"
+    },
+    {
+      "name": "XBXPlay Remote Play",
+      "version": "1.0.0",
+      "source": "Apkpure",
+      "size": "64.84 MB",
+      "download": "https://download.xrai.glass/apks/XBXPlay Remote Play_1.0.0_Apkpure.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/XBXPlay.png",
+      "category": "Gaming"
     }
 ]
