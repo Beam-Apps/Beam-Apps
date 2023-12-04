@@ -15,7 +15,7 @@
       "size": "28.36 MB",
       "download": "https://download.xrai.glass/apks/3D Sense Clock & Weather_6.23.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/3DSenseClockAndWeather.png",
-      "category": "Other"
+      "category": "Utilities"
     },
     {
       "name": "ADW Launcher",
@@ -231,7 +231,7 @@
       "size": "47.22 MB",
       "download": "https://download.xrai.glass/apks/Google%20Earth_10.40.0.2_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Google_Earth.png",
-      "category": "Other"
+      "category": "Utilities"
     },
     {
       "name": "Hulu",
@@ -567,13 +567,22 @@
       "category": "Entertainment"
     },
     {
+      "name": "Wallpaper Fusion",
+      "version": "2.3.1",
+      "source": "Apkcombo",
+      "size": "3.03 MB",
+      "download": "https://download.xrai.glass/apks/WallpaperFusion_2.3.1_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WallpaperFusion.png",
+      "category": "Utilities"
+    },
+    {
       "name": "Weather",
       "version": "1.9.0.1",
       "source": "Apkcombo",
       "size": "18.50 MB",
       "download": "https://download.xrai.glass/apks/Local Weather：Weather Forecast_1.9.0.1_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather.png",
-      "category": "Other"
+      "category": "Utilities"
     },
     {
       "name": "Weather Forecast",
@@ -582,7 +591,7 @@
       "size": "13.25 MB",
       "download": "https://download.xrai.glass/apks/Weather%20forecast_82.01_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather_Forecast.png",
-      "category": "Other"
+      "category": "Utilities"
     },
     {
       "name": "Weather Weawow",
@@ -591,7 +600,7 @@
       "size": "11.63 MB",
       "download": "https://download.xrai.glass/apks/Weather & Widget - Weawow_6.1.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weawow.png",
-      "category": "Other"
+      "category": "Utilities"
     },
     {
       "name": "WhatsApp Messenger",
