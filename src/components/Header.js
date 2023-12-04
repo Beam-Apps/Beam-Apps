@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <div className={styles.header}>
-        <h1 className={styles.heading}>Download apps to your XREAL Beam</h1>
+        <h1 className={styles.heading}>Download DEV apps to your XREAL Beam</h1>
       </div>
       <div>
         <DarkModeToggle />
