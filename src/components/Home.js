@@ -40,7 +40,7 @@ const Home = ({ links, selectedCategory, handleCategoryChange }) => {
         ))}
       </div>
       {/* Separate this in 2. Hero */}
-      <div className={styles.container}>
+      <div className={styles.cardContainer}>
         {links
           .filter(
             (link) =>
@@ -49,8 +49,8 @@ const Home = ({ links, selectedCategory, handleCategoryChange }) => {
           .map((link) => (
             <Card key={link.name} {...link} />
           ))}
-        <Footer />
       </div>
+      <Footer />
     </div>
   );
 };
