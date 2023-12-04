@@ -15,16 +15,7 @@
       "size": "28.36 MB",
       "download": "https://download.xrai.glass/apks/3D Sense Clock & Weather_6.23.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/3DSenseClockAndWeather.png",
-      "category": "Utilities"
-    },
-    {
-      "name": "ADW Launcher",
-      "version": "2_2.0.1.75",
-      "source": "Apkcombo",
-      "size": "12.93 MB",
-      "download": "https://download.xrai.glass/apks/ADW Launcher 2_2.0.1.75_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ADWLauncher1.png",
-      "category": "Launchers"
+      "category": "Other"
     },
     {
       "name": "Amazon Kindle",
@@ -135,15 +126,6 @@
       "category": "Reading"
     },
     {
-    "name": "Bluetooth Keyboard/Mouse",
-    "version": "5.4.6",
-    "source": "Apkcombo",
-    "size": "5.73 MB",
-    "download": "https://download.xrai.glass/apks/Bluetooth Keyboard_Mouse_5.4.6_apkcombo.com.apk",
-    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BluetoothKM.png",
-    "category": "Tools"
-    },
-    {
       "name": "Cast Receiver",
       "version": "1.6.0",
       "source": "mod-castreceiver-mod-apk",
@@ -231,7 +213,7 @@
       "size": "47.22 MB",
       "download": "https://download.xrai.glass/apks/Google%20Earth_10.40.0.2_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Google_Earth.png",
-      "category": "Utilities"
+      "category": "Other"
     },
     {
       "name": "Hulu",
@@ -243,22 +225,13 @@
       "category": "Entertainment"
     },
     {
-      "name": "Hyperion Launcher",
-      "version": "2.0.51",
-      "source": "Apkcombo",
-      "size": "8.93 MB",
-      "download": "https://download.xrai.glass/apks/hyperion launcher_2.0.51_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/HyperionLauncher.png",
-      "category": "Launchers"
-    },
-    {
       "name": "IconPackStudio",
       "version": "2.2_023",
       "source": "Apkcombo",
       "size": "52.10 MB",
       "download": "https://download.xrai.glass/apks/Icon Pack Studio_2.2 build 023_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/IconPackStudio.png",
-      "category": "Utilities"
+      "category": "Tools"
     },
     {
       "name": "Imgur",
@@ -267,7 +240,7 @@
       "size": "61.25 MB",
       "download": "https://download.xrai.glass/apks/Imgur_7.6.1.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Imgur.png",
-      "category": "Utilities"
+      "category": "Tools"
     },
     {
       "name": "Kodi",
@@ -277,15 +250,6 @@
       "download": "https://download.xrai.glass/apks/kodi-20.2-Nexus-arm64-v8a.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kodi.png",
       "category": "Entertainment"
-    },
-    {
-      "name": "Microsoft Launcher",
-      "version": "6.231101.0.1126051",
-      "source": "Apkcombo",
-      "size": "48.21 MB",
-      "download": "https://download.xrai.glass/apks/Microsoft Launcher_6.231101.0.1126051_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSLauncher.png",
-      "category": "Launchers"
     },
     {
       "name": "Microsoft Outlook Lite",
@@ -306,31 +270,13 @@
       "category": "Productivity"
     },
     {
-      "name": "Microsoft OneDrive",
-      "version": "6.95 beta1",
-      "source": "Apkcombo",
-      "size": "87.51 MB",
-      "download": "https://download.xrai.glass/apks/Microsoft OneDrive_6.95 (Beta 1)_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/OneDrive.png",
-      "category": "Productivity"
-    },
-    {
-      "name": "Microsoft Word",
-      "version": "16.0.17029.20028",
-      "source": "Apkcombo",
-      "size": "170.12 MB",
-      "download": "https://download.xrai.glass/apks/Microsoft Word_16.0.17029.20028_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSWord.png",
-      "category": "Productivity"
-    },
-    {
       "name": "Minma Icon Pack",
       "version": "2.5",
       "source": "Apkcombo",
       "size": "17.07 MB",
       "download": "https://download.xrai.glass/apks/Minma Icon Pack_2.5_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MinmaIconPack.png",
-      "category": "Utilities"
+      "category": "Tools"
     },
     {
       "name": "Moon+ Reader",
@@ -450,15 +396,6 @@
       "category": "Social Media"
     },
     {
-      "name": "Samsung S10 Launcher",
-      "version": "16.6.0.709_53000",
-      "source": "Apkcombo",
-      "size": "45.53 MB",
-      "download": "https://download.xrai.glass/apks/S10 Launcher_16.6.0.709_53000_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/S10Launcher.png",
-      "category": "Launchers"
-    },
-    {
       "name": "Send Anywhere",
       "version": "23.1.10",
       "source": "apkcombo",
@@ -493,15 +430,6 @@
       "download": "https://download.xrai.glass/apks/Shortcut%20Maker_4.2.4_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Shortcut_Maker.png",
       "category": "Tools"
-    },
-    {
-      "name": "Smart Launcher",
-      "version": "6_6.3036",
-      "source": "Apkcombo",
-      "size": "18.55 MB",
-      "download": "https://download.xrai.glass/apks/Smart Launcher 6_6.3 build 036_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SmartLauncher.png",
-      "category": "Launchers"
     },
     {
       "name": "SmartTV Twitch",
@@ -567,22 +495,13 @@
       "category": "Entertainment"
     },
     {
-      "name": "Wallpaper Fusion",
-      "version": "2.3.1",
-      "source": "Apkcombo",
-      "size": "3.03 MB",
-      "download": "https://download.xrai.glass/apks/WallpaperFusion_2.3.1_apkcombo.com.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WallpaperFusion.png",
-      "category": "Utilities"
-    },
-    {
       "name": "Weather",
       "version": "1.9.0.1",
       "source": "Apkcombo",
       "size": "18.50 MB",
       "download": "https://download.xrai.glass/apks/Local Weather：Weather Forecast_1.9.0.1_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather.png",
-      "category": "Utilities"
+      "category": "Other"
     },
     {
       "name": "Weather Forecast",
@@ -591,7 +510,7 @@
       "size": "13.25 MB",
       "download": "https://download.xrai.glass/apks/Weather%20forecast_82.01_Apkpure.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather_Forecast.png",
-      "category": "Utilities"
+      "category": "Other"
     },
     {
       "name": "Weather Weawow",
@@ -600,7 +519,7 @@
       "size": "11.63 MB",
       "download": "https://download.xrai.glass/apks/Weather & Widget - Weawow_6.1.0_apkcombo.com.apk",
       "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weawow.png",
-      "category": "Utilities"
+      "category": "Other"
     },
     {
       "name": "WhatsApp Messenger",
