@@ -8,6 +8,7 @@ import UpdateForm from "./components/UpdateForm";
 const App = () => {
   const [links, setLinks] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState("All");
+  console.log(process.env);
 
   useEffect(() => {
     console.log("Fetching links...");
@@ -16,9 +17,7 @@ const App = () => {
 
   const fetchLinks = async () => {
     try {
-      const response = await fetch(
-        "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json"
-      );
+      const response = await fetch(process.env.REACT_APP_CATALOG);
       if (response.ok) {
         const data = await response.json();
         console.log("Fetched links successfully:", data);
