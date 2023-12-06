@@ -13,3 +13,12 @@
     color: white;
   }
 }
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px 20px 130px;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
