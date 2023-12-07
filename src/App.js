@@ -16,8 +16,11 @@ const App = () => {
   }, []);
 
   const fetchLinks = async () => {
+    const url = window.location.href.includes("dev")
+      ? "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/dev/catalog.json"
+      : "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json";
     try {
-      const response = await fetch(process.env.REACT_APP_CATALOG);
+      const response = await fetch(url);
       if (response.ok) {
         const data = await response.json();
         console.log("Fetched links successfully:", data);
