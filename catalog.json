@@ -279,6 +279,15 @@
       "category": "Entertainment"
     },
     {
+      "name": "Microsoft Edge",
+      "version": "119.0.2151.92",
+      "source": "Apkcombo",
+      "size": "128.72 MB",
+      "download": "https://download.xrai.glass/apks/Microsoft Edge_119.0.2151.92_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MS_Edge.png",
+      "category": "Productivity"
+    },
+    {
       "name": "Microsoft Launcher",
       "version": "6.231101.0.1126051",
       "source": "Apkcombo",
