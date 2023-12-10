@@ -7,8 +7,10 @@
     background 0.5s ease, box-shadow 0.5s ease;
 
   &.dark {
-    background: rgba(45, 55, 87, 0.589);
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+    color: rgba(67, 124, 146, 0.721);
+    .content {
+      background: rgba(45, 55, 87, 0.589);
+    }
     transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
       background 1.5s 0.5s;
   }
@@ -33,6 +35,10 @@
   transition: transform 0.6s;
   transform-style: preserve-3d;
   box-shadow: rgba(100, 100, 111, 0.637) 0px 7px 20px 0px;
+
+  &.dark {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+  }
 }
 
 .top-section {
