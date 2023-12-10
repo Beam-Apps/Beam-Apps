@@ -8,24 +8,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #fff;
-  z-index: -1;
-  opacity: 1;
   transition: opacity 1s, background 1s;
-}
 
-body.light-mode::before {
-  background: #04112c;
-  opacity: 1;
+  &.light-mode {
+    background: #04112c;
+  }
 }
 
 :root[data-theme="light"] {
