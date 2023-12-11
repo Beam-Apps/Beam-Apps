@@ -20,8 +20,10 @@
     "download": "https://download.xrai.glass/apks/3D Sense Clock & Weather_6.23.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/3DSenseClockAndWeather.png",
     "category": "Utilities",
-    "description": "Weather",
-    "notes": "Has American sources \n Useful Widgets"
+    "description": "Weather by MACHAPP software Ltd",
+    "notes": "Has American sources \nUseful Widgets \nUpdated Nov 13, 2023",
+    "color": "yellow",
+    "darkColor": "orange"
   },
   {
     "name": "ADW Launcher",
@@ -30,7 +32,11 @@
     "size": "12.93 MB",
     "download": "https://download.xrai.glass/apks/ADW Launcher 2_2.0.1.75_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ADWLauncher1.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Launcher by AnderWeb",
+    "notes": "Updated Jun 10, 2020",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Amazon Kindle",
@@ -39,7 +45,11 @@
     "size": "107 MB",
     "download": "https://download.xrai.glass/apks/Amazon%20Kindle_8.89.3.0(2.0.2766.0)_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kindle.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "Kindle eReader by Amazon",
+    "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
+    "color": "blue",
+    "darkColor": "yellow"
   },
   {
     "name": "APKCombo Installer",
