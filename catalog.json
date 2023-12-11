@@ -8,7 +8,9 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/xrai.png",
     "category": "Tools",
     "description": "This is the description of the app.",
-    "notes": "These are notes about the app"
+    "notes": "These are notes about the app",
+    "color": "blue",
+    "darkColor": "red"
   },
   {
     "name": "3D Sense Clock and Weather",
