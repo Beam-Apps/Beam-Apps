@@ -13,6 +13,8 @@ export const Card = ({
   description,
   notes,
   virusTotal,
+  color,
+  darkColor,
 }) => {
   const [flipped, setFlipped] = useState(false);
   const { theme } = useTheme();
@@ -24,6 +26,7 @@ export const Card = ({
         [styles.dark]: theme === "dark",
         [styles.flipped]: flipped,
       })}
+      style={{ color: theme === "dark" ? darkColor : color }}
     >
       <div className={styles.content}>
         <div
@@ -69,7 +72,8 @@ export const Card = ({
               </a>
     </div>*/}
             <p>{description ?? "No description found."}</p>
-            <p>{notes ?? "No notes found."}</p>
+            {!notes && "No notes found."}
+            {notes && notes.split("\n").map((el) => <p>{el}</p>)}
           </div>
         </div>
       </div>
