@@ -8,7 +8,7 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/xrai.png",
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
-    "notes": "Requires one-time configuration from XRAI Glass running on a separate device",
+    "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
     "color": "blue",
     "darkColor": "red"
   },
