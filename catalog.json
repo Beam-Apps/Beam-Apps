@@ -7,8 +7,8 @@
     "download": "https://cdn.xrai.glass/share/beam/xrai-beam.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/xrai.png",
     "category": "Tools",
-    "description": "This is the description of the app.",
-    "notes": "These are notes about the app",
+    "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
+    "notes": "Requires one-time configuration from XRAI Glass running on a separate device",
     "color": "blue",
     "darkColor": "red"
   },
@@ -19,7 +19,9 @@
     "size": "28.36 MB",
     "download": "https://download.xrai.glass/apks/3D Sense Clock & Weather_6.23.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/3DSenseClockAndWeather.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Weather",
+    "notes": "Has American sources \n Useful Widgets"
   },
   {
     "name": "ADW Launcher",
