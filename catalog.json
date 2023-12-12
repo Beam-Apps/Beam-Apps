@@ -84,7 +84,11 @@
     "size": "134.61 MB",
     "download": "https://download.xrai.glass/apks/Apple%20Music_4.5.0_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AppleMusic.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Apple Music Player",
+    "notes": "",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "AptoideTV",
