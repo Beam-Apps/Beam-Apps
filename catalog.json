@@ -23,7 +23,7 @@
     "description": "Weather by MACHAPP software Ltd",
     "notes": "Has American sources \nUseful Widgets \nUpdated Nov 13, 2023",
     "color": "yellow",
-    "darkColor": "orange"
+    "darkColor": "red"
   },
   {
     "name": "ADW Launcher",
@@ -49,7 +49,7 @@
     "description": "Kindle eReader by Amazon",
     "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
     "color": "blue",
-    "darkColor": "yellow"
+    "darkColor": "red"
   },
   {
     "name": "APKCombo Installer",
@@ -58,7 +58,11 @@
     "size": "3.30 MB",
     "download": "https://download.xrai.glass/apks/APKCombo%20Installer_4.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/APKCombo.png",
-    "category": "Stores"
+    "category": "Stores",
+    "description": "ApkCombo Store",
+    "notes": "",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "APKPure",
@@ -67,7 +71,11 @@
     "size": "9.36 MB",
     "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
-    "category": "Stores"
+    "category": "Stores",
+    "description": "ApkPure Store",
+    "notes": "",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Apple Music",
