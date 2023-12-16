@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "yellow",
+    "color": "black",
     "darkColor": "red"
   },
   {
