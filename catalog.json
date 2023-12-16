@@ -149,7 +149,11 @@
     "size": "8.86 MB",
     "download": "https://download.xrai.glass/apks/Battery Indicator_2.8.11_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BatteryIndicator.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "Battery Widget by Fulmine Software",
+    "notes": "Use with Launchers, not Nebula \nUpdated November 23, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Battery Widget Reborn",
@@ -158,7 +162,11 @@
     "size": "9.58 MB",
     "download": "https://download.xrai.glass/apks/Battery Widget Reborn_4.8.0_FREE_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BWReborn.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "Battery Widget by Tomas Hubalek",
+    "notes": "Use with Launchers, not Nebula \nUpdated October 17, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "BBC",
