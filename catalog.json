@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "black",
+    "color": "red",
     "darkColor": "red"
   },
   {
@@ -48,7 +48,7 @@
     "category": "Reading",
     "description": "eReader by Amazon",
     "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
-    "color": "yellow",
+    "color": "red",
     "darkColor": "red"
   },
   {
