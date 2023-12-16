@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "red",
+    "color": "green",
     "darkColor": "red"
   },
   {
@@ -48,7 +48,7 @@
     "category": "Reading",
     "description": "eReader by Amazon",
     "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
-    "color": "red",
+    "color": "green",
     "darkColor": "red"
   },
   {
@@ -152,7 +152,7 @@
     "category": "Tools",
     "description": "Battery Widget by Fulmine Software",
     "notes": "Use with Launchers, not Nebula \nUpdated November 23, 2023",
-    "color": "red",
+    "color": "green",
     "darkColor": "yellow"
   },
   {
@@ -165,7 +165,7 @@
     "category": "Tools",
     "description": "Battery Widget by Tomas Hubalek",
     "notes": "Use with Launchers, not Nebula \nUpdated October 17, 2023",
-    "color": "red",
+    "color": "green",
     "darkColor": "yellow"
   },
   {
@@ -175,7 +175,11 @@
     "size": "34.75",
     "download": "https://download.xrai.glass/apks/BBC News_7.1.1.5388_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BBC.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "World News by BBC Studios Limited",
+    "notes": "Updated November 22, 2023",
+    "color": "black",
+    "darkColor": "green"
   },
   {
     "name": "Bloomberg",
