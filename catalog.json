@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "blue",
+    "color": "yellow",
     "darkColor": "red"
   },
   {
@@ -22,7 +22,7 @@
     "category": "Utilities",
     "description": "Weather by MACHAPP software Ltd",
     "notes": "Has American sources \nUseful Widgets \nUpdated Nov 13, 2023",
-    "color": "yellow",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -46,9 +46,9 @@
     "download": "https://download.xrai.glass/apks/Amazon%20Kindle_8.89.3.0(2.0.2766.0)_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kindle.png",
     "category": "Reading",
-    "description": "Kindle eReader by Amazon",
+    "description": "eReader by Amazon",
     "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
-    "color": "blue",
+    "color": "yellow",
     "darkColor": "red"
   },
   {
@@ -59,7 +59,7 @@
     "download": "https://download.xrai.glass/apks/APKCombo%20Installer_4.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/APKCombo.png",
     "category": "Stores",
-    "description": "ApkCombo Store",
+    "description": "App Store",
     "notes": " ",
     "color": "black",
     "darkColor": "red"
@@ -72,8 +72,8 @@
     "download": "https://download.xrai.glass/apks/APKPure_v3.19.63_apkpure.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ApkPure_Store.png",
     "category": "Stores",
-    "description": "ApkPure Store",
-    "notes": "",
+    "description": "App Store",
+    "notes": " ",
     "color": "black",
     "darkColor": "red"
   },
@@ -86,7 +86,7 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AppleMusic.png",
     "category": "Entertainment",
     "description": "Apple Music Player",
-    "notes": "",
+    "notes": " ",
     "color": "black",
     "darkColor": "yellow"
   },
@@ -97,7 +97,11 @@
     "size": "11.39 MB",
     "download": "https://download.xrai.glass/apks/AptoideTV-5.1.2.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aptoide_TV.png",
-    "category": "Stores"
+    "category": "Stores",
+    "description": "App Store",
+    "notes": " ",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Astron",
