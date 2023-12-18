@@ -145,11 +145,11 @@
     },
     {
       "name": "Cast Receiver",
-      "version": "1.6.0",
-      "source": "mod-castreceiver-mod-apk",
-      "size": "13.10 MB",
-      "download": "https://download.xrai.glass/apks/com-mod-castreceiver-mod-apk-1-6-0-20212130.apk",
-      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CastReceiver.png",
+      "version": "1.6.6",
+      "source": "https://prosmart.by/android/soft_android/internet_android/19845-castreceiver-153-mod.html",
+      "size": "24.97 MB",
+      "download": "https://download.xrai.glass/apks/CastReceiver 1.6.6 build 20214136_arm64-v8a_prosmart.by.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CastReceiver2.png",
       "category": "Tools"
     },
     {
