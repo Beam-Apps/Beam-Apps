@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "orange",
+    "color": "red",
     "darkColor": "red"
   },
   {
@@ -48,7 +48,7 @@
     "category": "Reading",
     "description": "Read anytime, anywhere, the Kindle app puts millions of books, magazines, newspapers, comics, and manga at your fingertips",
     "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
-    "color": "orange",
+    "color": "red",
     "darkColor": "red"
   },
   {
@@ -152,7 +152,7 @@
     "category": "Tools",
     "description": "Battery Widget by Fulmine Software.",
     "notes": "Use with Launchers, not Nebula \nUpdated November 23, 2023",
-    "color": "orange",
+    "color": "red",
     "darkColor": "yellow"
   },
   {
@@ -183,21 +183,29 @@
   },
   {
     "name": "Bloomberg",
-    "version": "2.21.228657.1.53024fc",
+    "version": "6.10.0.4171988.accc4a4fa",
     "source": "Apkcombo",
     "size": "18.43 MB",
-    "download": "https://download.xrai.glass/apks/BloombergLP for Tablet_2.21.228657.1.53024fc_apkcombo.com.apk",
-    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg.png",
-    "category": "Reading"
+    "download": "https://download.xrai.glass/apks/Bloomberg_6.10.0.4171988.accc4a4f4_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg2.png",
+    "category": "Reading",
+    "description": "Breaking news on world finance, business, stock market and investments",
+    "notes": "Updated December 8, 2023",
+    "color": "black",
+    "darkColor": "green"
   },
   {
     "name": "Bluetooth Keyboard/Mouse",
-    "version": "5.4.6",
+    "version": "5.4.7",
     "source": "Apkcombo",
     "size": "5.73 MB",
-    "download": "https://download.xrai.glass/apks/Bluetooth Keyboard_Mouse_5.4.6_apkcombo.com.apk",
+    "download": "https://download.xrai.glass/apks/Bluetooth Keyboard_Mouse_5.4.7_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BluetoothKM.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "by Appground IO",
+    "notes": "Updated December 15, 2023",
+    "color": "black",
+    "darkColor": "green"
   },
   {
     "name": "Cast Receiver",
