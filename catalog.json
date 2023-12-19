@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "green",
+    "color": "orange",
     "darkColor": "red"
   },
   {
@@ -48,7 +48,7 @@
     "category": "Reading",
     "description": "Read anytime, anywhere, the Kindle app puts millions of books, magazines, newspapers, comics, and manga at your fingertips",
     "notes": "Use D-pad setting for easy page flipping \nUpdated Nov 13, 2023",
-    "color": "green",
+    "color": "orange",
     "darkColor": "red"
   },
   {
@@ -86,7 +86,7 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AppleMusic.png",
     "category": "Entertainment",
     "description": "Apple Music Player",
-    "notes": " ",
+    "notes": "Get unlimited access to 100 million songs, thousands of curated playlists, and original content from the artists you know and love",
     "color": "black",
     "darkColor": "yellow"
   },
@@ -150,9 +150,9 @@
     "download": "https://download.xrai.glass/apks/Battery Indicator_2.8.11_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BatteryIndicator.png",
     "category": "Tools",
-    "description": "Battery Widget by Fulmine Software",
+    "description": "Battery Widget by Fulmine Software.",
     "notes": "Use with Launchers, not Nebula \nUpdated November 23, 2023",
-    "color": "green",
+    "color": "orange",
     "darkColor": "yellow"
   },
   {
@@ -164,8 +164,8 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BWReborn.png",
     "category": "Tools",
     "description": "Battery Widget by Tomas Hubalek",
-    "notes": "Use with Launchers, not Nebula \nUpdated October 17, 2023",
-    "color": "green",
+    "notes": "Use with Launchers, not Nebula. \nUpdated October 17, 2023",
+    "color": "red",
     "darkColor": "yellow"
   },
   {
