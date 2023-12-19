@@ -214,7 +214,11 @@
     "size": "13.10 MB",
     "download": "https://download.xrai.glass/apks/com-mod-castreceiver-mod-apk-1-6-0-20212130.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CastReceiver.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "by ProSmart",
+    "notes": "Updated December 15, 2023",
+    "color": "black",
+    "darkColor": "green"
   },
   {
     "name": "CNN",
