@@ -182,32 +182,6 @@
     "darkColor": "green"
   },  
   {
-    "name": "Bloomberg",
-    "version": "6.10.0.4171988",
-    "source": "Apkcombo",
-    "size": "54.59",
-    "download": "https://download.xrai.glass/apks/Bloomberg_6.10.0.4171988.accc4a4f4_apkcombo.com.apk",
-    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg3.png",
-    "category": "Reading",
-    "description": "Breaking news on world finance, business, stock market and investments",
-    "notes": "Updated December 12, 2023",
-    "color": "black",
-    "darkColor": "green"
-  },  
-  {
-    "name": "Bloomberg2",
-    "version": "2.21.228657.1.53024fc",
-    "source": "Apkcombo",
-    "size": "18.43 MB",
-    "download": "https://download.xrai.glass/apks/BloombergLP for Tablet_2.21.228657.1.53024fc_apkcombo.com.apk",
-    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg.png",
-    "category": "Reading",
-    "description": "Breaking news on world finance, business, stock market and investments",
-    "notes": "For Tablets",
-    "color": "black",
-    "darkColor": "green"
-  },
-  {
     "name": "Bluetooth Keyboard/Mouse",
     "version": "5.4.7",
     "source": "Apkcombo",
