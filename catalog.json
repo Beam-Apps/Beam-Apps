@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "red",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -181,16 +181,17 @@
     "color": "black",
     "darkColor": "green"
   },
+  
   {
     "name": "Bloomberg",
-    "version": "6.10.0.4171988.accc4a4fa",
+    "version": "6.10.0.4171988",
     "source": "Apkcombo",
-    "size": "18.43 MB",
+    "size": "54.59",
     "download": "https://download.xrai.glass/apks/Bloomberg_6.10.0.4171988.accc4a4f4_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg2.png",
     "category": "Reading",
-    "description": "\nBreaking news on world finance, business, stock market and investments",
-    "notes": "Updated December 8, 2023",
+    "description": "Breaking news on world finance, business, stock market and investments",
+    "notes": "Updated December 12, 2023",
     "color": "black",
     "darkColor": "green"
   },
