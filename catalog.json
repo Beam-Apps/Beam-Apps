@@ -214,7 +214,11 @@
     "size": "92.68 MB",
     "download": "https://download.xrai.glass/apks/CNN News_7.39.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CNN.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "Breaking US and World News",
+    "notes": "Updated November 16, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Cx File Explorer",
@@ -223,7 +227,11 @@
     "size": "7.67 MB",
     "download": "https://download.xrai.glass/apks/Cx%20File%20Explorer_2.0.3_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/CX_File_Explorer.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "Easy File & App management with user-friendly UI",
+    "notes": "Updated September 13, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Discord",
@@ -232,7 +240,11 @@
     "size": "259.42 MB",
     "download": "https://download.xrai.glass/apks/Discord_ Talk,%20Chat%20&%20Hang%20Out_204.18%20-%20Stable_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Discord.png",
-    "category": "Social Media"
+    "category": "Social Media",
+    "description": "Join a chat group on Discord to stay close and engaged with your friends and communities",
+    "notes": "Updated Novemeber 15, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Disney+",
@@ -241,7 +253,11 @@
     "size": "35.06 MB",
     "download": "https://download.xrai.glass/apks/Disney+_2.25.2-rc3_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/DisneyPlus.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Stream and download exclusive Disney+ movies and TV shows on your mobile device at anytime and anywhere",
+    "notes": "Updated Novemeber 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Emby for Android TV",
@@ -250,7 +266,11 @@
     "size": "70.44 MB",
     "download": "https://download.xrai.glass/apks/Emby%20for%20Android%20TV_2.0.98g_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Emby_for_Android_TV.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Bringing all of your personal media together into one place has never been easier! Emby unites your personal videos, music, and photos and streams them to all your devices",
+    "notes": "Updated Novemeber 9, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Firefox Fast & Private Browser",
@@ -259,7 +279,11 @@
     "size": "91.43 MB",
     "download": "https://download.xrai.glass/apks/Firefox%20Fast%20&%20Private%20Browser_120.0_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Firefox.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Firefox is a private and fast browser that blocks trackers and scripts in all windows to protect your security",
+    "notes": "Updated Novemeber 27, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Fox News",
@@ -268,7 +292,11 @@
     "size": "32.71 MB",
     "download": "https://download.xrai.glass/apks/Fox News - Daily Breaking News_4.67.01_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Fox_News.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "From the latest US and world news headlines to opinion pieces and politics, from sports and entertainment - the Fox News app fits easily into your busy lifestyle",
+    "notes": "Updated October 31, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Google Chrome",
