@@ -180,7 +180,20 @@
     "notes": "Updated November 22, 2023",
     "color": "black",
     "darkColor": "green"
-  },  
+  },
+  {
+    "name": "Bloomberg",
+    "version": "6.10.0.4171988",
+    "source": "Apkcombo",
+    "size": "54.59",
+    "download": "https://download.xrai.glass/apks/Bloomberg_6.10.0.4171988.accc4a4f4_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg3.png",
+    "category": "Reading",
+    "description": "Breaking news on world finance, business, stock market and investments",
+    "notes": "Updated December 12, 2023",
+    "color": "black",
+    "darkColor": "green"
+  }, 
   {
     "name": "Bluetooth Keyboard/Mouse",
     "version": "5.4.7",
@@ -256,7 +269,7 @@
     "category": "Entertainment",
     "description": "Stream and download exclusive Disney+ movies and TV shows on your mobile device at anytime and anywhere",
     "notes": "Updated Novemeber 29, 2023",
-    "color": "black",
+    "color": "red",
     "darkColor": "red"
   },
   {
@@ -269,7 +282,7 @@
     "category": "Entertainment",
     "description": "Bringing all of your personal media together into one place has never been easier! Emby unites your personal videos, music, and photos and streams them to all your devices",
     "notes": "Updated Novemeber 9, 2023",
-    "color": "black",
+    "color": "red",
     "darkColor": "red"
   },
   {
@@ -295,7 +308,7 @@
     "category": "Reading",
     "description": "From the latest US and world news headlines to opinion pieces and politics, from sports and entertainment - the Fox News app fits easily into your busy lifestyle",
     "notes": "Updated October 31, 2023",
-    "color": "black",
+    "color": "red",
     "darkColor": "red"
   },
   {
