@@ -9,7 +9,7 @@
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
-    "color": "black",
+    "color": "red",
     "darkColor": "red"
   },
   {
@@ -180,8 +180,7 @@
     "notes": "Updated November 22, 2023",
     "color": "black",
     "darkColor": "green"
-  },
-  
+  },  
   {
     "name": "Bloomberg",
     "version": "6.10.0.4171988",
@@ -192,6 +191,19 @@
     "category": "Reading",
     "description": "Breaking news on world finance, business, stock market and investments",
     "notes": "Updated December 12, 2023",
+    "color": "black",
+    "darkColor": "green"
+  },  
+  {
+    "name": "Bloomberg",
+    "version": "2.21.228657.1.53024fc",
+    "source": "Apkcombo",
+    "size": "18.43 MB",
+    "download": "https://download.xrai.glass/apks/BloombergLP for Tablet_2.21.228657.1.53024fc_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Bloomberg.png",
+    "category": "Reading",
+    "description": "Breaking news on world finance, business, stock market and investments",
+    "notes": "For Tablets",
     "color": "black",
     "darkColor": "green"
   },
