@@ -282,7 +282,7 @@
     "category": "Entertainment",
     "description": "Bringing all of your personal media together into one place has never been easier! Emby unites your personal videos, music, and photos and streams them to all your devices",
     "notes": "Updated Novemeber 9, 2023",
-    "color": "red",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -308,7 +308,7 @@
     "category": "Reading",
     "description": "From the latest US and world news headlines to opinion pieces and politics, from sports and entertainment - the Fox News app fits easily into your busy lifestyle",
     "notes": "Updated October 31, 2023",
-    "color": "red",
+    "color": "yellow",
     "darkColor": "red"
   },
   {
@@ -319,8 +319,8 @@
     "download": "https://download.xrai.glass/apks/Google%20Chrome_%20Fast%20&%20Secure_118.0.5993.48_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Chrome.png",
     "category": "Productivity",
-    "description": "Designed for Android, Chrome offers personalized news articles, quick links to favorite sites, downloads, and Google Search and Translate built-in",
-    "notes": "Updated December 20, 2023",
+    "description": "Designed for Android, Chrome offers personalized news articles, quick links to favorite sites, downloads, and Google Search and Translate built-in.",
+    "notes": "\nUpdated December 20, 2023",
     "color": "black",
     "darkColor": "red"
   },
@@ -332,8 +332,8 @@
     "download": "https://download.xrai.glass/apks/Google%20Earth_10.40.0.2_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Google_Earth.png",
     "category": "Utilities",
-    "description": "Explore the whole world from above with satellite imagery and 3D terrain of the entire globe and 3D buildings in hundreds of cities around the world",
-    "notes": "Updated Novemeber 6, 2023",
+    "description": "Explore the whole world from above with satellite imagery and 3D terrain of the entire globe and 3D buildings in hundreds of cities around the world.",
+    "notes": "\nUpdated Novemeber 6, 2023",
     "color": "black",
     "darkColor": "red"
   },
@@ -345,9 +345,9 @@
     "download": "https://download.xrai.glass/apks/Hulu_%20Stream%20TV%20shows%20&%20movies_5.3.0+12541-google_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Hulu.png",
     "category": "Entertainment",
-    "description": "A large number of hot films and high-ranking TV series are available on Hulu. New movies and TV shows will be added every week, so there will always be something new to discover",
-    "notes": "Updated September 27, 2023",
-    "color": "black",
+    "description": "A large number of hot films and high-ranking TV series are available on Hulu. New movies and TV shows will be added every week, so there will always be something new to discover.",
+    "notes": "\nUpdated September 27, 2023",
+    "color": "red",
     "darkColor": "red"
   },
   {
