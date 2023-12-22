@@ -370,7 +370,11 @@
     "size": "52.10 MB",
     "download": "https://download.xrai.glass/apks/Icon Pack Studio_2.2 build 023_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/IconPackStudio.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "With IPS you can create an icon pack from scratch or you can download and apply one of thousand uploaded every day by our community.",
+    "notes": "Updated November 24, 2023",
+    "color": "red",
+    "darkColor": "red"
   },
   {
     "name": "Imgur",
@@ -379,7 +383,11 @@
     "size": "61.25 MB",
     "download": "https://download.xrai.glass/apks/Imgur_7.6.1.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Imgur.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Home to all the funny photos and viral videos you could ever want!",
+    "notes": "Updated November 18, 2023",
+    "color": "red",
+    "darkColor": "red"
   },
   {
     "name": "Kodi",
@@ -388,7 +396,11 @@
     "size": "68.83 MB",
     "download": "https://download.xrai.glass/apks/kodi-20.2-Nexus-arm64-v8a.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kodi.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Kodi puts your smart TV to shame. Kodi plays almost every kind of media you can find and looks great while doing it!",
+    "notes": " ",
+    "color": "red",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Launcher",
@@ -397,7 +409,11 @@
     "size": "48.21 MB",
     "download": "https://download.xrai.glass/apks/Microsoft Launcher_6.231101.0.1126051_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSLauncher.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Microsoft Launcher is highly customizable, allowing you to organize everything on your phone: Calendar, To Do lists, Sticky Notes on the go and more!",
+    "notes": "Updated November 17, 2023",
+    "color": "red",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Outlook Lite",
@@ -406,7 +422,11 @@
     "size": "15.91 MB",
     "download": "https://download.xrai.glass/apks/Microsoft%20Outlook%20Lite_%20Email_3.18.2-minApi24_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook_Lite.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Outlook you love in a small and fast app with emails, calendar and contacts​.​",
+    "notes": "Updated November 16, 2023",
+    "color": "red",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Outlook",
@@ -415,7 +435,11 @@
     "size": "139.48 MB",
     "download": "https://download.xrai.glass/apks/Microsoft%20Outlook_4.2227.4_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Microsoft Outlook helps you to create and organize emails, calendars and files all in one place securely.",
+    "notes": "Updated November 16, 2023",
+    "color": "red",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft OneDrive",
