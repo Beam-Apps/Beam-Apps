@@ -552,7 +552,11 @@
     "size": "15.48 MB",
     "download": "https://download.xrai.glass/apks/NPR_3.7.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NPR.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "The NPR app is your one-stop source for the best of public radio - news, stories, podcasts and more from NPR and local NPR stations.",
+    "notes": "Updated October 1, 2023",
+    "color": "yellow",
+    "darkColor": "red"
   },
   {
     "name": "Opera",
@@ -561,7 +565,11 @@
     "size": "120.75 MB",
     "download": "https://download.xrai.glass/apks/Opera_78.5.4143.75924_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Opera.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Fast, private web browser with VPN, AI & ad-block. Personalize your own browser.",
+    "notes": "Updated Novemeber 30, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Paramount+",
@@ -570,7 +578,11 @@
     "size": "55.26 MB",
     "download": "https://download.xrai.glass/apks/Paramount+_12.0.70_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ParamountPlus.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Stream hot movies, TV shows, and Paramount+ exclusive originals on Android.",
+    "notes": "Updated Novemeber 7, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Parsec",
@@ -579,7 +591,11 @@
     "size": "18.06 MB",
     "download": "https://download.xrai.glass/apks/Parsec_3.150.046.00_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Parsec.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "You can use Parsec to connect to your computer across any screen, giving you the ability to stay productive, game on-the-go, or even play local multiplayer games from afar.",
+    "notes": "Updated September 4, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Plex",
@@ -588,7 +604,11 @@
     "size": "138.88 MB",
     "download": "https://download.xrai.glass/apks/Plex Stream Movies & TV_10.3.0.4685_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Plex.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "Subscription free streaming that brings over 600 channels of your favorite TV shows, free movies, and Live TV straight to you.",
+    "notes": "Updated Novemeber 7?, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Projectivy Launcher",
@@ -597,7 +617,11 @@
     "size": "7.78 MB",
     "download": "https://download.xrai.glass/apks/Projectivy Launcher_4.36_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Projectivy.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Replace Eva with an alternative launcher for Android TV, tailored for your TVs and projectors needs.",
+    "notes": "Updated October 13, 2023",
+    "color": "yellow",
+    "darkColor": "yellow"
   },
   {
     "name": "PS Remote Play",
@@ -606,7 +630,11 @@
     "size": "27.15 MB",
     "download": "https://download.xrai.glass/apks/PS Remote Play_6.5.2_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/PSPlay.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "Access your PS5 or PS4 wherever you go.",
+    "notes": "Updated November 21, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Reddit",
