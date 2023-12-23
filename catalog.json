@@ -373,7 +373,7 @@
     "category": "Utilities",
     "description": "With IPS you can create an icon pack from scratch or you can download and apply one of thousand uploaded every day by our community.",
     "notes": "Updated November 24, 2023",
-    "color": "red",
+    "color": "yellow",
     "darkColor": "red"
   },
   {
@@ -386,7 +386,7 @@
     "category": "Utilities",
     "description": "Home to all the funny photos and viral videos you could ever want!",
     "notes": "Updated November 18, 2023",
-    "color": "red",
+    "color": "yellow",
     "darkColor": "red"
   },
   {
@@ -399,7 +399,7 @@
     "category": "Entertainment",
     "description": "Kodi puts your smart TV to shame. Kodi plays almost every kind of media you can find and looks great while doing it!",
     "notes": " ",
-    "color": "red",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -412,7 +412,7 @@
     "category": "Launchers",
     "description": "Microsoft Launcher is highly customizable, allowing you to organize everything on your phone: Calendar, To Do lists, Sticky Notes on the go and more!",
     "notes": "Updated November 17, 2023",
-    "color": "red",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -425,7 +425,7 @@
     "category": "Productivity",
     "description": "Outlook you love in a small and fast app with emails, calendar and contacts​.​",
     "notes": "Updated November 16, 2023",
-    "color": "red",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -438,7 +438,7 @@
     "category": "Productivity",
     "description": "Microsoft Outlook helps you to create and organize emails, calendars and files all in one place securely.",
     "notes": "Updated November 16, 2023",
-    "color": "red",
+    "color": "black",
     "darkColor": "red"
   },
   {
@@ -448,7 +448,11 @@
     "size": "87.51 MB",
     "download": "https://download.xrai.glass/apks/Microsoft OneDrive_6.95 (Beta 1)_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/OneDrive.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "OneDrive’s cloud storage will secure photos, videos, files and keep them safe.",
+    "notes": "Updated December 1, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Word",
@@ -457,7 +461,11 @@
     "size": "170.12 MB",
     "download": "https://download.xrai.glass/apks/Microsoft Word_16.0.17029.20028_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSWord.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "OneDrive’s cloud storage will secure photos, videos, files and keep them safe.",
+    "notes": "Updated Novemeber 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Minma Icon Pack",
@@ -466,7 +474,11 @@
     "size": "17.07 MB",
     "download": "https://download.xrai.glass/apks/Minma Icon Pack_2.5_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MinmaIconPack.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Minimal & Linear Styled Icon Pack With a Touch of Roundness and Drop Shadow.\n Use with a Launcher not Nebula.",
+    "notes": "Updated October 26, 2023",
+    "color": "yellow",
+    "darkColor": "red"
   },
   {
     "name": "Moon+ Reader",
