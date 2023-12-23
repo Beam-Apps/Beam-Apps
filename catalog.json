@@ -10,7 +10,8 @@
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
     "color": "red",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "20 5 0"
   },
   {
     "name": "3D Sense Clock and Weather",
@@ -23,7 +24,8 @@
     "description": "Weather by MACHAPP software Ltd",
     "notes": "Has American sources \nUseful Widgets \nUpdated Nov 13, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "7 10 6"
   },
   {
     "name": "ADW Launcher",

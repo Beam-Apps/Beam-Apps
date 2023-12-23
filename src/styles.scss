@@ -11,7 +11,7 @@ body {
   transition: opacity 1s, background 1s;
 
   &.light-mode {
-    background: #04112c;
+    background: #000000; //#04112c
   }
 }
 

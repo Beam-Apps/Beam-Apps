@@ -15,8 +15,10 @@ const App = () => {
 
   const fetchLinks = async () => {
     const url = window.location.href.includes("dev")
-      ? "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/dev/catalog.json"
-      : "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json";
+    ? "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/dev/catalog.json" 
+    : window.location.href.includes("localhost")
+    ? "http://localhost:3001/links"
+    : "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/catalog.json";
     try {
       const response = await fetch(url);
       if (response.ok) {
