@@ -487,7 +487,11 @@
     "size": "35.64 MB",
     "download": "https://download.xrai.glass/apks/Moon+%20Reader_8.5_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonPlus_Reader.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "Innovative book reader with powerful controls & full functions. \nRead thousands of ebooks for free, supports online ebook libraries.",
+    "notes": "Updated November 10, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Moonlight",
@@ -496,7 +500,11 @@
     "size": "6.41 MB",
     "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs). Mouse, keyboard, and controller input is sent from your Android device to your PC.",
+    "notes": "Updated November 4, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "MX Player",
@@ -505,7 +513,11 @@
     "size": "127.54 MB",
     "download": "https://download.xrai.glass/apks/MX%20Player_1.74.3_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MX_Player.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "MX Player is a robust video and music player featuring advanced hardware acceleration and subtitle support.",
+    "notes": "Updated November 16, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "NewPipe",
@@ -514,7 +526,11 @@
     "size": "10.39 MB",
     "download": "https://download.xrai.glass/apks/NewPipe_0.25.2_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NewPipe.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "A lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.",
+    "notes": "Updated August 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Nova Launcher",
@@ -523,7 +539,11 @@
     "size": "10.77 MB",
     "download": "https://download.xrai.glass/apks/Nova Launcher_8.0.8_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/nova.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Replace Eva with Nova Launcher.\nThis is a powerful, customizable, and versatile home screen replacement.",
+    "notes": "Updated October 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "NPR",
