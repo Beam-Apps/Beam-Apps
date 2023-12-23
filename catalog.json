@@ -372,7 +372,11 @@
     "size": "52.10 MB",
     "download": "https://download.xrai.glass/apks/Icon Pack Studio_2.2 build 023_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/IconPackStudio.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "With IPS you can create an icon pack from scratch or you can download and apply one of thousand uploaded every day by our community.",
+    "notes": "Updated November 24, 2023",
+    "color": "yellow",
+    "darkColor": "red"
   },
   {
     "name": "Imgur",
@@ -381,7 +385,11 @@
     "size": "61.25 MB",
     "download": "https://download.xrai.glass/apks/Imgur_7.6.1.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Imgur.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Home to all the funny photos and viral videos you could ever want!",
+    "notes": "Updated November 18, 2023",
+    "color": "yellow",
+    "darkColor": "red"
   },
   {
     "name": "Kodi",
@@ -390,7 +398,11 @@
     "size": "68.83 MB",
     "download": "https://download.xrai.glass/apks/kodi-20.2-Nexus-arm64-v8a.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kodi.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Kodi puts your smart TV to shame. Kodi plays almost every kind of media you can find and looks great while doing it!",
+    "notes": " ",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Launcher",
@@ -399,7 +411,11 @@
     "size": "48.21 MB",
     "download": "https://download.xrai.glass/apks/Microsoft Launcher_6.231101.0.1126051_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSLauncher.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Microsoft Launcher is highly customizable, allowing you to organize everything on your phone: Calendar, To Do lists, Sticky Notes on the go and more!",
+    "notes": "Updated November 17, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Outlook Lite",
@@ -408,7 +424,11 @@
     "size": "15.91 MB",
     "download": "https://download.xrai.glass/apks/Microsoft%20Outlook%20Lite_%20Email_3.18.2-minApi24_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook_Lite.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Outlook you love in a small and fast app with emails, calendar and contacts​.​",
+    "notes": "Updated November 16, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Outlook",
@@ -417,7 +437,11 @@
     "size": "139.48 MB",
     "download": "https://download.xrai.glass/apks/Microsoft%20Outlook_4.2227.4_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Microsoft Outlook helps you to create and organize emails, calendars and files all in one place securely.",
+    "notes": "Updated November 16, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft OneDrive",
@@ -426,7 +450,11 @@
     "size": "87.51 MB",
     "download": "https://download.xrai.glass/apks/Microsoft OneDrive_6.95 (Beta 1)_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/OneDrive.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "OneDrive’s cloud storage will secure photos, videos, files and keep them safe.",
+    "notes": "Updated December 1, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Microsoft Word",
@@ -435,7 +463,11 @@
     "size": "170.12 MB",
     "download": "https://download.xrai.glass/apks/Microsoft Word_16.0.17029.20028_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSWord.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "OneDrive’s cloud storage will secure photos, videos, files and keep them safe.",
+    "notes": "Updated Novemeber 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Minma Icon Pack",
@@ -444,7 +476,11 @@
     "size": "17.07 MB",
     "download": "https://download.xrai.glass/apks/Minma Icon Pack_2.5_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MinmaIconPack.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Minimal & Linear Styled Icon Pack With a Touch of Roundness and Drop Shadow.\n Use with a Launcher not Nebula.",
+    "notes": "Updated October 26, 2023",
+    "color": "yellow",
+    "darkColor": "red"
   },
   {
     "name": "Moon+ Reader",
@@ -453,7 +489,11 @@
     "size": "35.64 MB",
     "download": "https://download.xrai.glass/apks/Moon+%20Reader_8.5_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonPlus_Reader.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "Innovative book reader with powerful controls & full functions. \nRead thousands of ebooks for free, supports online ebook libraries.",
+    "notes": "Updated November 10, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Moonlight",
@@ -462,7 +502,11 @@
     "size": "6.41 MB",
     "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs). Mouse, keyboard, and controller input is sent from your Android device to your PC.",
+    "notes": "Updated November 4, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "MX Player",
@@ -471,7 +515,11 @@
     "size": "127.54 MB",
     "download": "https://download.xrai.glass/apks/MX%20Player_1.74.3_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MX_Player.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "MX Player is a robust video and music player featuring advanced hardware acceleration and subtitle support.",
+    "notes": "Updated November 16, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "NewPipe",
@@ -480,7 +528,11 @@
     "size": "10.39 MB",
     "download": "https://download.xrai.glass/apks/NewPipe_0.25.2_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NewPipe.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "A lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.",
+    "notes": "Updated August 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "Nova Launcher",
@@ -489,7 +541,11 @@
     "size": "10.77 MB",
     "download": "https://download.xrai.glass/apks/Nova Launcher_8.0.8_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/nova.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Replace Eva with Nova Launcher.\nThis is a powerful, customizable, and versatile home screen replacement.",
+    "notes": "Updated October 29, 2023",
+    "color": "black",
+    "darkColor": "red"
   },
   {
     "name": "NPR",
@@ -498,7 +554,11 @@
     "size": "15.48 MB",
     "download": "https://download.xrai.glass/apks/NPR_3.7.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NPR.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "The NPR app is your one-stop source for the best of public radio - news, stories, podcasts and more from NPR and local NPR stations.",
+    "notes": "Updated October 1, 2023",
+    "color": "yellow",
+    "darkColor": "red"
   },
   {
     "name": "Opera",
@@ -507,7 +567,11 @@
     "size": "120.75 MB",
     "download": "https://download.xrai.glass/apks/Opera_78.5.4143.75924_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Opera.png",
-    "category": "Productivity"
+    "category": "Productivity",
+    "description": "Fast, private web browser with VPN, AI & ad-block. Personalize your own browser.",
+    "notes": "Updated Novemeber 30, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Paramount+",
@@ -516,7 +580,11 @@
     "size": "55.26 MB",
     "download": "https://download.xrai.glass/apks/Paramount+_12.0.70_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ParamountPlus.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "Stream hot movies, TV shows, and Paramount+ exclusive originals on Android.",
+    "notes": "Updated Novemeber 7, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Parsec",
@@ -525,7 +593,11 @@
     "size": "18.06 MB",
     "download": "https://download.xrai.glass/apks/Parsec_3.150.046.00_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Parsec.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "You can use Parsec to connect to your computer across any screen, giving you the ability to stay productive, game on-the-go, or even play local multiplayer games from afar.",
+    "notes": "Updated September 4, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Plex",
@@ -534,7 +606,11 @@
     "size": "138.88 MB",
     "download": "https://download.xrai.glass/apks/Plex Stream Movies & TV_10.3.0.4685_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Plex.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "Subscription free streaming that brings over 600 channels of your favorite TV shows, free movies, and Live TV straight to you.",
+    "notes": "Updated Novemeber 7?, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Projectivy Launcher",
@@ -543,7 +619,11 @@
     "size": "7.78 MB",
     "download": "https://download.xrai.glass/apks/Projectivy Launcher_4.36_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Projectivy.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Replace Eva with an alternative launcher for Android TV, tailored for your TVs and projectors needs.",
+    "notes": "Updated October 13, 2023",
+    "color": "yellow",
+    "darkColor": "yellow"
   },
   {
     "name": "PS Remote Play",
@@ -552,7 +632,11 @@
     "size": "27.15 MB",
     "download": "https://download.xrai.glass/apks/PS Remote Play_6.5.2_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/PSPlay.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "Access your PS5 or PS4 wherever you go.",
+    "notes": "Updated November 21, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Reddit",
