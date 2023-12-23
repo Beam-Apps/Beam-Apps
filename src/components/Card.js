@@ -83,12 +83,10 @@ export const Card = ({
             fill="#FD0808"
           />
         </svg>
-        {!flipped && (
+        <div className={styles.front}>
           <div className={styles.lightbarContainer}>
             <div className={styles.lightBar} />
           </div>
-        )}
-        <div className={styles.front}>
           <div className={styles["top-section"]}>
             <img className={styles.img} src={icon} alt={name} />
           </div>
@@ -128,7 +126,24 @@ export const Card = ({
               {virusTotal ? (
                 virusTotal.split(" ").map((count, index) => (
                   <div key={index} className={styles["element-container"]}>
-                    <img src={statusImages[index === 0? "yes": index === 1? "caution": "exclamation"]}alt={`${index === 0? "Yes": index === 1? "Caution": "Exclamation"} Icon`}/>
+                    <img
+                      src={
+                        statusImages[
+                          index === 0
+                            ? "yes"
+                            : index === 1
+                            ? "caution"
+                            : "exclamation"
+                        ]
+                      }
+                      alt={`${
+                        index === 0
+                          ? "Yes"
+                          : index === 1
+                          ? "Caution"
+                          : "Exclamation"
+                      } Icon`}
+                    />
                     <span>{count}</span>
                   </div>
                 ))
@@ -143,7 +158,9 @@ export const Card = ({
                     <span>-</span>
                   </div>
                   <div className={styles["element-container"]}>
-                    <img src={statusImages["exclamation"]} alt="Exclamation Icon"
+                    <img
+                      src={statusImages["exclamation"]}
+                      alt="Exclamation Icon"
                     />
                     <span>-</span>
                   </div>
@@ -151,22 +168,30 @@ export const Card = ({
               )}
             </div>
             <div
-              style={{width: "99%",height: "0%",border: "1.5px #D2D2D2 solid",}}
+              style={{
+                width: "99%",
+                height: "0%",
+                border: "1.5px #D2D2D2 solid",
+              }}
             ></div>
             <div className={styles["column-of-elements"]}>
               <div>
                 <span>{description}</span>
               </div>
               <div>
-  <span>
-    {notes
-      ? notes
-          .split("\n")
-          .map((el, index) => 
-            <p key={index} className={el.length > 5 ? 'small-text' : ''}>{el}</p>)
-      : "No notes found."}
-  </span>
-</div>
+                <span>
+                  {notes
+                    ? notes.split("\n").map((el, index) => (
+                        <p
+                          key={index}
+                          className={el.length > 5 ? "small-text" : ""}
+                        >
+                          {el}
+                        </p>
+                      ))
+                    : "No notes found."}
+                </span>
+              </div>
               <div className={styles["version-size-container"]}>
                 <span>{"Version: " + version}</span>
                 <br />
