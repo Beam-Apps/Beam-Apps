@@ -645,7 +645,11 @@
     "size": "82.53 MB",
     "download": "https://download.xrai.glass/apks/Reddit_2023.45.0_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Reddit.png",
-    "category": "Social Media"
+    "category": "Social Media",
+    "description": "Find and discuss any topic you like including games, sports, music, news, movies and anything else you can imagine!",
+    "notes": "Updated November 14, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Samsung S10 Launcher",
@@ -654,7 +658,11 @@
     "size": "45.53 MB",
     "download": "https://download.xrai.glass/apks/S10 Launcher_16.6.0.709_53000_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/S10Launcher.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "Replace Eva with the Galaxy S10 interface",
+    "notes": "Updated December 10, 2020",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Send Anywhere",
@@ -663,7 +671,11 @@
     "size": "30.82 MB",
     "download": "https://download.xrai.glass/apks/Send Anywhere_23.1.10_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SendAnywhere.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "Send whatever you want, wherever you want!",
+    "notes": "Updated November 23, 2023",
+    "color": "black",
+    "darkColor": "yellow"
   },
   {
     "name": "Settings App - All Settings",
@@ -672,7 +684,11 @@
     "size": "6.57 MB",
     "download": "https://download.xrai.glass/apks/settings%20app%20-%20All%20settings_1.9_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AllSettings.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "By Pilar Studio",
+    "notes": "Updated August 24, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Shortcut Creator",
