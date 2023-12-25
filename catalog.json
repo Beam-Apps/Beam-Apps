@@ -762,7 +762,11 @@
     "size": "49.11 MB",
     "download": "https://download.xrai.glass/apks/tachiyomi-v0.14.7.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Tachiyomi.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "Discover and read manga, webtoons, comics, and more!",
+    "notes": "Updated October 25, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Tailscale",
@@ -771,7 +775,11 @@
     "size": "37.49 MB",
     "download": "https://download.xrai.glass/apks/Tailscale_1.52.0_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/tailscale.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "Based on WireGuard, Tailscale is a mesh VPN alternative that makes it easy to connect your devices, wherever they are.",
+    "notes": "Updated Novemeber 1, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "The New York Times",
