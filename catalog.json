@@ -736,7 +736,11 @@
     "size": "2.63 MB",
     "download": "https://download.xrai.glass/apks/SmartTV_twitch_3_0_350.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SmartTwitch.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "SmartTV Client for Twitch \nBy Felipe Leon",
+    "notes": "Updated September 12, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Stremio for Mobile",
