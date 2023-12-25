@@ -697,7 +697,11 @@
     "size": "3.21 MB",
     "download": "https://download.xrai.glass/apks/Shortcut Creator_3.2.4_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/ShortcutCreator.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "By AlexTernHome",
+    "notes": "Updated February 15, 2021",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Shortcut Maker",
@@ -706,7 +710,11 @@
     "size": "3.89 MB",
     "download": "https://download.xrai.glass/apks/Shortcut%20Maker_4.2.4_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Shortcut_Maker.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "By Rushikesh Kamewar",
+    "notes": "Updated October 31, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Smart Launcher",
@@ -715,7 +723,11 @@
     "size": "18.55 MB",
     "download": "https://download.xrai.glass/apks/Smart Launcher 6_6.3 build 036_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SmartLauncher.png",
-    "category": "Launchers"
+    "category": "Launchers",
+    "description": "By Smart Launcher Team",
+    "notes": "Updated December 10?, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "SmartTV Twitch",
@@ -733,7 +745,11 @@
     "size": "48.51 MB",
     "download": "https://download.xrai.glass/apks/com.stremio.one-1.6.8-4208741-arm64-v8a.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Stremio.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "A streaming application that allows you to watch and organize video content from different services including movies, live TV and video channels.",
+    "notes": " ",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Tachiyomi",
