@@ -15,7 +15,7 @@
     }
 
     transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    background 1.5s 0.5s;
+      background 1.5s 0.5s;
   }
 
   &.flipped {
@@ -125,6 +125,7 @@
   height: 100%;
   border-radius: 20px;
   backface-visibility: hidden;
+  transform: rotateX(0deg);
 }
 
 .version-size-container {
@@ -144,7 +145,7 @@
   justify-content: center;
   text-align: center;
   line-height: 20px;
-  color: #C7C7C7;
+  color: #c7c7c7;
   margin-top: 10px;
 }
 
@@ -184,7 +185,6 @@
   gap: 20px;
   margin-top: 10px;
 }
-
 
 .flip {
   position: relative;
