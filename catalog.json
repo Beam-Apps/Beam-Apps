@@ -783,12 +783,16 @@
   },
   {
     "name": "The New York Times",
-    "version": "16.36",
+    "version": "10.36",
     "source": "Apkcombo",
     "size": "40.81 MB",
     "download": "https://download.xrai.glass/apks/The New York Times_10.36.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/The_New_York_Times.png",
-    "category": "Reading"
+    "category": "Reading",
+    "description": "Read, watch and listen to original, independent journalism.",
+    "notes": "Updated Novemeber 6, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "TitanTV",
@@ -797,7 +801,11 @@
     "size": "13.43 MB",
     "download": "https://download.xrai.glass/apks/TitanTV_3.0.4_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/TitanTV_Guide.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "A free mobile program and TV listings guide.",
+    "notes": "Updated April 7, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "VLC for Android",
@@ -806,7 +814,11 @@
     "size": "34.48 MB",
     "download": "https://download.xrai.glass/apks/VLC%20for%20Android_3.5.4_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/VLC.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "description": "A versatile, free, and open-source multimedia player that lets you stream videos and music free and fast.",
+    "notes": "Updated August 27, 2023 \nBy Videolabs",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Wallpaper Fusion",
@@ -815,7 +827,11 @@
     "size": "3.03 MB",
     "download": "https://download.xrai.glass/apks/WallpaperFusion_2.3.1_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WallpaperFusion.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "The best Android wallpapers, all in one place.",
+    "notes": "Updated March 15, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Weather",
