@@ -840,7 +840,11 @@
     "size": "18.50 MB",
     "download": "https://download.xrai.glass/apks/Local Weather：Weather Forecast_1.9.0.1_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Your personal weather assistant.\nBy Enjoy Life Studio",
+    "notes": "Updated November 5, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Weather Forecast",
@@ -849,7 +853,11 @@
     "size": "13.25 MB",
     "download": "https://download.xrai.glass/apks/Weather%20forecast_82.01_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weather_Forecast.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Get upcoming temperature, humidity, and wind speed/direction.\nBy Smart-Pro Android Apps",
+    "notes": "Updated May 13, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "Weather Weawow",
@@ -858,7 +866,11 @@
     "size": "11.63 MB",
     "download": "https://download.xrai.glass/apks/Weather & Widget - Weawow_6.1.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Weawow.png",
-    "category": "Utilities"
+    "category": "Utilities",
+    "description": "Enhanced by beautiful weather-related photos taken by photographers around the world.\nBy Weawow",
+    "notes": "Updated Novemeber 8, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "WhatsApp Messenger",
@@ -867,7 +879,11 @@
     "size": "86.33 MB",
     "download": "https://download.xrai.glass/apks/WhatsApp%20Messenger_2.23.24.23_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Whatsapp.png",
-    "category": "Social Media"
+    "category": "Social Media",
+    "description": "Make private voice and video calls as well as group chats with friends and family on WhatsApp Messenger.",
+    "notes": "Updated Novemeber 20?, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "WireGuard",
@@ -876,7 +892,11 @@
     "size": "8.58 MB",
     "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WireGuardVPN.png",
-    "category": "Tools"
+    "category": "Tools",
+    "description": "The official app for managing WireGuard VPN tunnels.",
+    "notes": "Updated October 19, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   },
   {
     "name": "XBXPlay Remote Play",
@@ -885,6 +905,10 @@
     "size": "64.84 MB",
     "download": "https://download.xrai.glass/apks/XBXPlay Remote Play_1.0.0_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/XBXPlay.png",
-    "category": "Gaming"
+    "category": "Gaming",
+    "description": "Play your X-Box games remotely in 1080p with any controller and zero latency",
+    "notes": "Updated October 7, 2023",
+    "color": "red",
+    "darkColor": "yellow"
   }
 ]
