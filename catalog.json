@@ -612,7 +612,8 @@
     "description": "Fast, private web browser with VPN, AI & ad-block. Personalize your own browser.",
     "notes": "Updated Novemeber 30, 2023",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Paramount+",
@@ -625,7 +626,8 @@
     "description": "Stream hot movies, TV shows, and Paramount+ exclusive originals on Android.",
     "notes": "Updated Novemeber 7, 2023",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Parsec",
@@ -638,7 +640,8 @@
     "description": "You can use Parsec to connect to your computer across any screen, giving you the ability to stay productive, game on-the-go, or even play local multiplayer games from afar.",
     "notes": "Updated September 4, 2023",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Plex",
@@ -651,7 +654,8 @@
     "description": "Subscription free streaming that brings over 600 channels of your favorite TV shows, free movies, and Live TV straight to you.",
     "notes": "Updated Novemeber 7?, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Projectivy Launcher",
@@ -664,7 +668,8 @@
     "description": "Replace Eva with an alternative launcher for Android TV, tailored for your TVs and projectors needs.",
     "notes": "Updated October 13, 2023",
     "color": "yellow",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "PS Remote Play",
@@ -677,7 +682,8 @@
     "description": "Access your PS5 or PS4 wherever you go.",
     "notes": "Updated November 21, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Reddit",
@@ -690,7 +696,8 @@
     "description": "Find and discuss any topic you like including games, sports, music, news, movies and anything else you can imagine!",
     "notes": "Updated November 14, 2023",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Samsung S10 Launcher",
@@ -703,7 +710,8 @@
     "description": "Replace Eva with the Galaxy S10 interface",
     "notes": "Updated December 10, 2020",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Send Anywhere",
@@ -716,7 +724,8 @@
     "description": "Send whatever you want, wherever you want!",
     "notes": "Updated November 23, 2023",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Settings App - All Settings",
