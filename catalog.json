@@ -898,14 +898,14 @@
   },
   {
     "name": "WhatsApp Messenger",
-    "version": "2.23.24.23",
+    "version": "2.24.1.6",
     "source": "Apkpure",
-    "size": "86.33 MB",
-    "download": "https://download.xrai.glass/apks/WhatsApp%20Messenger_2.23.24.23_Apkpure.apk",
+    "size": "87.42 MB",
+    "download": "https://download.xrai.glass/apks/WhatsApp Messenger_2.24.1.6_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Whatsapp.png",
     "category": "Social Media",
     "description": "Make private voice and video calls as well as group chats with friends and family on WhatsApp Messenger.",
-    "notes": "Updated Novemeber 20?, 2023",
+    "notes": "Updated December 22, 2023",
     "color": "red",
     "darkColor": "yellow"
   },
