@@ -262,7 +262,8 @@
     "description": "Easy File & App management with user-friendly UI",
     "notes": "Updated September 13, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 1 0"
   },
   {
     "name": "Discord",
@@ -275,7 +276,8 @@
     "description": "Join a chat group on Discord to stay close and engaged with your friends and communities",
     "notes": "Updated Novemeber 15, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Disney+",
@@ -288,7 +290,8 @@
     "description": "Stream and download exclusive Disney+ movies and TV shows on your mobile device at anytime and anywhere",
     "notes": "Updated Novemeber 29, 2023",
     "color": "red",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Emby for Android TV",
@@ -301,7 +304,8 @@
     "description": "Bringing all of your personal media together into one place has never been easier! Emby unites your personal videos, music, and photos and streams them to all your devices",
     "notes": "Updated Novemeber 9, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Firefox Fast & Private Browser",
@@ -314,7 +318,8 @@
     "description": "Firefox is a private and fast browser that blocks trackers and scripts in all windows to protect your security",
     "notes": "Updated Novemeber 27, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 1 0"
   },
   {
     "name": "Fox News",
@@ -327,7 +332,8 @@
     "description": "From the latest US and world news headlines to opinion pieces and politics, from sports and entertainment - the Fox News app fits easily into your busy lifestyle",
     "notes": "Updated October 31, 2023",
     "color": "yellow",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Google Chrome",
