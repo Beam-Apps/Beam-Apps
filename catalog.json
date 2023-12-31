@@ -94,7 +94,8 @@
     "description": "Apple Music Player",
     "notes": "Get unlimited access to 100 million songs, thousands of curated playlists, and original content from the artists you know and love",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "AptoideTV",
@@ -107,7 +108,8 @@
     "description": "App Store",
     "notes": " ",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Astron",
@@ -120,7 +122,8 @@
     "description": "HD Video Player",
     "notes": "No ADs, Download 4k",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "ATV Launcher",
@@ -133,7 +136,8 @@
     "description": "Launcher by DStudio Canada",
     "notes": "Updated November 12, 2018",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "AuroraStore",
@@ -146,7 +150,8 @@
     "description": "App Store",
     "notes": " ",
     "color": "black",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Battery Indicator",
@@ -159,7 +164,8 @@
     "description": "Battery Widget by Fulmine Software.",
     "notes": "Use with Launchers, not Nebula \nUpdated November 23, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Battery Widget Reborn",
@@ -172,7 +178,8 @@
     "description": "Battery Widget by Tomas Hubalek",
     "notes": "Use with Launchers, not Nebula. \nUpdated October 17, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "BBC",
@@ -185,7 +192,8 @@
     "description": "World News by BBC Studios Limited",
     "notes": "Updated November 22, 2023",
     "color": "black",
-    "darkColor": "green"
+    "darkColor": "green",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Bloomberg",
@@ -198,7 +206,8 @@
     "description": "Breaking news on world finance, business, stock market and investments",
     "notes": "Updated December 12, 2023",
     "color": "black",
-    "darkColor": "green"
+    "darkColor": "green",
+    "virusTotal": "0 0 0"
   }, 
   {
     "name": "Bluetooth Keyboard/Mouse",
@@ -211,7 +220,8 @@
     "description": "by Appground IO",
     "notes": "Updated December 15, 2023",
     "color": "black",
-    "darkColor": "green"
+    "darkColor": "green",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Cast Receiver",
@@ -224,7 +234,8 @@
     "description": "by ProSmart",
     "notes": "Updated December 15, 2023",
     "color": "black",
-    "darkColor": "green"
+    "darkColor": "green",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "CNN",
@@ -237,7 +248,8 @@
     "description": "Breaking US and World News",
     "notes": "Updated November 16, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Cx File Explorer",
