@@ -346,7 +346,8 @@
     "description": "Designed for Android, Chrome offers personalized news articles, quick links to favorite sites, downloads, and Google Search and Translate built-in.",
     "notes": "\nUpdated December 20, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Google Earth",
@@ -357,9 +358,10 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Google_Earth.png",
     "category": "Utilities",
     "description": "Explore the whole world from above with satellite imagery and 3D terrain of the entire globe and 3D buildings in hundreds of cities around the world.",
-    "notes": "\nUpdated Novemeber 6, 2023",
+    "notes": "\nUpdated December 7, 2023",
     "color": "black",
-    "darkColor": "red"
+    "darkColor": "red",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Hulu",
