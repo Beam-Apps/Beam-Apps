@@ -738,7 +738,8 @@
     "description": "By Pilar Studio",
     "notes": "Updated August 24, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Shortcut Creator",
@@ -751,7 +752,8 @@
     "description": "By AlexTernHome",
     "notes": "Updated February 15, 2021",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Shortcut Maker",
@@ -764,7 +766,8 @@
     "description": "By Rushikesh Kamewar",
     "notes": "Updated October 31, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Smart Launcher",
@@ -777,7 +780,8 @@
     "description": "By Smart Launcher Team",
     "notes": "Updated December 10?, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "SmartTV Twitch",
@@ -790,7 +794,8 @@
     "description": "SmartTV Client for Twitch \nBy Felipe Leon",
     "notes": "Updated September 12, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Stremio for Mobile",
@@ -803,7 +808,8 @@
     "description": "A streaming application that allows you to watch and organize video content from different services including movies, live TV and video channels.",
     "notes": " ",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Tachiyomi",
@@ -816,7 +822,8 @@
     "description": "Discover and read manga, webtoons, comics, and more!",
     "notes": "Updated October 25, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Tailscale",
@@ -829,7 +836,8 @@
     "description": "Based on WireGuard, Tailscale is a mesh VPN alternative that makes it easy to connect your devices, wherever they are.",
     "notes": "Updated Novemeber 1, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "The New York Times",
@@ -842,7 +850,8 @@
     "description": "Read, watch and listen to original, independent journalism.",
     "notes": "Updated Novemeber 6, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "TitanTV",
@@ -855,7 +864,8 @@
     "description": "A free mobile program and TV listings guide.",
     "notes": "Updated April 7, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "VLC for Android",
@@ -868,7 +878,8 @@
     "description": "A versatile, free, and open-source multimedia player that lets you stream videos and music free and fast.",
     "notes": "Updated August 27, 2023 \nBy Videolabs",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Wallpaper Fusion",
@@ -881,7 +892,8 @@
     "description": "The best Android wallpapers, all in one place.",
     "notes": "Updated March 15, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Weather",
@@ -894,7 +906,8 @@
     "description": "Your personal weather assistant.\nBy Enjoy Life Studio",
     "notes": "Updated November 5, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Weather Forecast",
@@ -907,7 +920,8 @@
     "description": "Get upcoming temperature, humidity, and wind speed/direction.\nBy Smart-Pro Android Apps",
     "notes": "Updated May 13, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "Weather Weawow",
@@ -920,7 +934,8 @@
     "description": "Enhanced by beautiful weather-related photos taken by photographers around the world.\nBy Weawow",
     "notes": "Updated Novemeber 8, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "WhatsApp Messenger",
@@ -933,7 +948,8 @@
     "description": "Make private voice and video calls as well as group chats with friends and family on WhatsApp Messenger.",
     "notes": "Updated December 22, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "WireGuard",
@@ -946,7 +962,8 @@
     "description": "The official app for managing WireGuard VPN tunnels.",
     "notes": "Updated October 19, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   },
   {
     "name": "XBXPlay Remote Play",
@@ -959,6 +976,7 @@
     "description": "Play your X-Box games remotely in 1080p with any controller and zero latency",
     "notes": "Updated October 7, 2023",
     "color": "red",
-    "darkColor": "yellow"
+    "darkColor": "yellow",
+    "virusTotal": "0 0 0"
   }
 ]
