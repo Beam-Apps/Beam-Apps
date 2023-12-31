@@ -145,7 +145,7 @@
     "source": "Apkpure",
     "size": "5.98 MB",
     "download": "https://download.xrai.glass/apks/AuroraStore_4.3.5.apk",
-    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Aurora_Store.png",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/AuroraStore2.png",
     "category": "Stores",
     "description": "App Store",
     "notes": " ",
@@ -165,7 +165,7 @@
     "notes": "Use with Launchers, not Nebula \nUpdated November 23, 2023",
     "color": "red",
     "darkColor": "yellow",
-    "virusTotal": "0 0 0"
+    "virusTotal": "65 0 0"
   },
   {
     "name": "Battery Widget Reborn",
@@ -179,7 +179,7 @@
     "notes": "Use with Launchers, not Nebula. \nUpdated October 17, 2023",
     "color": "red",
     "darkColor": "yellow",
-    "virusTotal": "0 0 0"
+    "virusTotal": "65 0 0"
   },
   {
     "name": "BBC",
@@ -193,7 +193,7 @@
     "notes": "Updated November 22, 2023",
     "color": "black",
     "darkColor": "green",
-    "virusTotal": "0 0 0"
+    "virusTotal": "64 0 0"
   },
   {
     "name": "Bloomberg",
@@ -207,7 +207,7 @@
     "notes": "Updated December 12, 2023",
     "color": "black",
     "darkColor": "green",
-    "virusTotal": "0 0 0"
+    "virusTotal": "62 0 0"
   }, 
   {
     "name": "Bluetooth Keyboard/Mouse",
