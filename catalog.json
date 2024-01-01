@@ -333,7 +333,7 @@
     "notes": "Updated October 31, 2023",
     "color": "yellow",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "64 0 0"
   },
   {
     "name": "Google Chrome",
@@ -347,7 +347,7 @@
     "notes": "\nUpdated December 20, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "64 0 0"
   },
   {
     "name": "Google Earth",
@@ -361,7 +361,7 @@
     "notes": "\nUpdated December 7, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "66 0 0"
   },
   {
     "name": "Hulu",
@@ -375,7 +375,7 @@
     "notes": "\nUpdated September 27, 2023",
     "color": "red",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "63 0 0"
   },
   {
     "name": "Hyperion Launcher",
@@ -389,7 +389,7 @@
     "notes": "Updated November 25, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "66 0 0"
   },
   {
     "name": "IconPackStudio",
@@ -403,7 +403,7 @@
     "notes": "Updated November 24, 2023",
     "color": "yellow",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "39 0 0"
   },
   {
     "name": "Imgur",
@@ -417,7 +417,7 @@
     "notes": "Updated November 18, 2023",
     "color": "yellow",
     "darkColor": "red",
-    "virusTotal": "0 1 0"
+    "virusTotal": "64 1 0"
   },
   {
     "name": "Kodi",
@@ -431,7 +431,7 @@
     "notes": " ",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "64 0 0"
   },
   {
     "name": "Microsoft Launcher",
@@ -445,7 +445,7 @@
     "notes": "Updated November 17, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "62 0 0"
   },
   {
     "name": "Microsoft Outlook Lite",
@@ -459,7 +459,7 @@
     "notes": "Updated November 16, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "66 0 0"
   },
   {
     "name": "Microsoft Outlook",
@@ -473,7 +473,7 @@
     "notes": "Updated November 16, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 0 0"
+    "virusTotal": "47 0 0"
   },
   {
     "name": "Microsoft OneDrive",
@@ -487,7 +487,7 @@
     "notes": "Updated December 1, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "0 1 0"
+    "virusTotal": "58 1 0"
   },
   {
     "name": "Microsoft Word",
