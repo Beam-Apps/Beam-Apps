@@ -470,7 +470,7 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Microsoft_Outlook.png",
     "category": "Productivity",
     "description": "Microsoft Outlook helps you to create and organize emails, calendars and files all in one place securely.",
-    "notes": "Updated November 16, 2023",
+    "notes": "Updated December 19, 2023",
     "color": "black",
     "darkColor": "red",
     "virusTotal": "47 0 0"
@@ -526,7 +526,7 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonPlus_Reader.png",
     "category": "Reading",
     "description": "Innovative book reader with powerful controls & full functions. \nRead thousands of ebooks for free, supports online ebook libraries.",
-    "notes": "Updated November 10, 2023",
+    "notes": "Updated December 5, 2023",
     "color": "black",
     "darkColor": "red",
     "virusTotal": "65 0 0"
@@ -568,7 +568,7 @@
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NewPipe.png",
     "category": "Entertainment",
     "description": "A lightweight YouTube front-end for Android. It doesn't need the YouTube-API or any Google Play Services, as NewPipe only parses the YouTube website in order to gain the information it needs.",
-    "notes": "Updated August 29, 2023",
+    "notes": "By theScrabi\n Updated August 29, 2023",
     "color": "black",
     "darkColor": "red",
     "virusTotal": "64 0 0"
