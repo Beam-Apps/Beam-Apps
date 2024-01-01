@@ -144,6 +144,15 @@
     "category": "Tools"
     },
     {
+      "name": "Brave Browser",
+      "version": "1.61.109",
+      "source": "ApkCombo",
+      "size": "270.46 MB",
+      "download": "https://download.xrai.glass/apks/Brave Browser_1.61.109_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Brave.png",
+      "category": "Productivity"
+    },
+    {
       "name": "Cast Receiver",
       "version": "1.6.6",
       "source": "https://prosmart.by/android/soft_android/internet_android/19845-castreceiver-153-mod.html",
