@@ -223,6 +223,20 @@
     "darkColor": "green",
     "virusTotal": "65 0 0"
   },
+    {
+      "name": "Brave Browser",
+      "version": "1.61.109",
+      "source": "ApkCombo",
+      "size": "270.46 MB",
+      "download": "https://download.xrai.glass/apks/Brave Browser_1.61.109_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Brave.png",
+      "category": "Productivity",
+      "description": "by Brave Software",
+      "notes": "Updated December 23, 2023",
+      "color": "black",
+      "darkColor": "green",
+      "virusTotal": "64 0 0"
+    },
   {
     "name": "Cast Receiver",
     "version": "1.6.0",
