@@ -94,7 +94,13 @@ export const Card = ({
           </div>
           <div className={styles.border}></div>
           <div className={styles.icons}></div>
-          <div className={styles["bottom-section"]} onClick={() => (window.location.href = download)}>
+          <div
+            className={styles["bottom-section"]}
+            onClick={(e) => {
+              e.stopPropagation();
+              window.location.href = download;
+            }}
+          >
             <span className={styles.title}>{name}</span>
             <div className={styles.row}>
               <div className={styles.col}>
