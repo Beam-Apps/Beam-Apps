@@ -7,8 +7,8 @@
 /* Body styles */
 body {
   font-family: 'Helvetica Neue', sans-serif;
-  background-color: #ee0303;
-  color: #ff0000;
+  background-color: #1a1a1a;
+  color: #fff;
   overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 

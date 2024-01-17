@@ -83,16 +83,18 @@ export const Card = ({
             fill="#FD0808"
           />
         </svg>
-        <div className={styles.front}>
+        {!flipped && (
           <div className={styles.lightbarContainer}>
             <div className={styles.lightBar} />
           </div>
+        )}
+        <div className={styles.front}>
           <div className={styles["top-section"]}>
             <img className={styles.img} src={icon} alt={name} />
           </div>
           <div className={styles.border}></div>
           <div className={styles.icons}></div>
-          <div className={styles["bottom-section"]}>
+          <div className={styles["bottom-section"]} onClick={() => (window.location.href = download)}>
             <span className={styles.title}>{name}</span>
             <div className={styles.row}>
               <div className={styles.col}>
@@ -103,7 +105,6 @@ export const Card = ({
                 <img
                   className={cn(styles.img, styles["download-image"])}
                   src={require("../assets/dwld.png")}
-                  onClick={() => (window.location.href = download)}
                   alt="Download"
                 />
               </div>
@@ -181,14 +182,9 @@ export const Card = ({
               <div>
                 <span>
                   {notes
-                    ? notes.split("\n").map((el, index) => (
-                        <p
-                          key={index}
-                          className={el.length > 5 ? "small-text" : ""}
-                        >
-                          {el}
-                        </p>
-                      ))
+                    ? notes
+                        .split("\n")
+                        .map((el, index) => <p key={index}>{el}</p>)
                     : "No notes found."}
                 </span>
               </div>
