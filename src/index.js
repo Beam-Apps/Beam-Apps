@@ -3,7 +3,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import { Auth0Provider } from "@auth0/auth0-react";
 import App from "./App";
 import { ThemeProvider } from "./context/ThemeContext";
-import "./styles.scss";
+import "./styles.css";
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
