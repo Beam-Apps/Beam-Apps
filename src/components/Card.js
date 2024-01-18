@@ -6,6 +6,7 @@ import { useState } from "react";
 
 export const Card = ({
   icon,
+  iconDark,
   name,
   version,
   download,
@@ -33,6 +34,10 @@ export const Card = ({
     setTimeout(() => {
       setFlipped(flipped);
     }, 10);
+  };
+
+  const getIcon = () => {
+    return theme === "dark" && iconDark ? iconDark : icon;
   };
 
   return (
@@ -90,7 +95,7 @@ export const Card = ({
         )}
         <div className={styles.front}>
           <div className={styles["top-section"]}>
-            <img className={styles.img} src={icon} alt={name} />
+            <img className={styles.img} src={getIcon()} alt={name} />
           </div>
           <div className={styles.border}></div>
           <div className={styles.icons}></div>

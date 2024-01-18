@@ -6,7 +6,7 @@
     "size": "105 MB",
     "download": "https://cdn.xrai.glass/share/beam/xrai-beam.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/xrai.png",
-    "icon-dark": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/xrai-white.png",
+    "iconDark": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/xrai-white.png",
     "category": "Tools",
     "description": "Realtime transcription and translation in 75+ languages with built-in ChatGPT",
     "notes": "\nRequires one-time configuration from XRAI Glass running on a separate device",
