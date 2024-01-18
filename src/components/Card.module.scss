@@ -1,30 +1,59 @@
 .card {
   width: 250px;
+  height: 350px;
   border-radius: 20px;
   /* background: #3b3c40a1; */
-  padding: 10px;
-  overflow: hidden;
-  box-shadow: rgba(100, 100, 111, 0.637) 0px 7px 20px 0px;
   transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
     background 0.5s ease, box-shadow 0.5s ease;
-  margin: 15px;
 
   &.dark {
-    background: rgba(45, 55, 87, 0.589);
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+    color: rgba(67, 124, 146, 0.721);
+
+    .content {
+      background: #04112c; //#1B1B1B
+      box-shadow: 0px 4px 4.8px 0px rgba(255, 255, 255, 0.25) inset;
+    }
+
     transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
       background 1.5s 0.5s;
   }
+
+  &.flipped {
+    .content {
+      transform: rotateY(180deg);
+    }
+  }
+
+  &:hover,
+  &:active {
+    transform: scale(1.15);
+  }
+
+  @media (hover: none) and (pointer: coarse) {
+    &:hover {
+      transform: scale(1.15);
+    }
+  }
 }
 
-.card:hover {
-  transform: scale(1.15);
-  /*default ii 1.05*/
+.content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: rgba(100, 100, 111, 0.637) 0px 7px 20px 0px;
+
+  &.dark {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+  }
 }
 
 .top-section {
   height: 180px;
-  border-radius: 15px;
+  border-radius: 20px;
   display: flex;
   flex-direction: column;
   background: #3b3c4000;
@@ -50,9 +79,9 @@
 }
 
 .bottom-section {
-  margin-top: 0px; /*default ii 25px*/
+  margin-top: 0px;
+  /*default ii 25px*/
   margin-bottom: -15px;
-  padding: 10px 0px;
 }
 
 .title {
@@ -62,6 +91,7 @@
   color: rgb(67, 105, 177);
   text-align: center;
   letter-spacing: 2px;
+  height: 40px;
 }
 
 .row {
@@ -77,6 +107,8 @@
   justify-content: center;
   color: rgba(67, 124, 146, 0.721);
   padding: 5px;
+  width: 100%;
+  cursor: pointer;
 }
 
 .small-text {
@@ -86,4 +118,121 @@
 .col:nth-child(2) {
   border-left: 2px solid rgba(151, 151, 151, 0.514);
   border-right: 2px solid rgba(151, 151, 151, 0.514);
+}
+
+.front,
+.back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  backface-visibility: hidden;
+  transform: rotateX(0deg);
+}
+
+.version-size-container {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+}
+
+.back {
+  transform: rotateY(180deg);
+}
+
+.backContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 20px;
+  color: #c7c7c7;
+  margin-top: 10px;
+}
+
+.backContent img {
+  width: 120px;
+  height: 25px;
+  //margin-top: 10px;
+  //margin-bottom: 10px;
+}
+
+.backContent .row-of-elements {
+  display: flex;
+  justify-content: space-around;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.backContent .element-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backContent .element-container img {
+  width: auto;
+  height: 15px;
+  object-fit: contain;
+  margin-top: 5px;
+}
+
+.backContent .column-of-elements {
+  display: flex;
+  font-size: 14px;
+  padding: 0px 30px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.flip {
+  position: relative;
+  width: 1rem;
+  height: 1rem;
+  cursor: pointer;
+}
+
+.small-text {
+  font-size: 10px;
+}
+
+.icons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.lightbarContainer {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.lightBar {
+  width: 75%;
+  height: 10px;
+  border-radius: 1rem;
+  background-color: #f0f0f0;
+  position: absolute;
+  // top: 0.5rem;
+  animation-name: glow;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes glow {
+  0% {
+    background-color: #f0f0f0;
+  }
+
+  50% {
+    background-color: #d0d0d0;
+  }
+
+  100% {
+    background-color: #f0f0f0;
+  }
 }
