@@ -6,6 +6,7 @@
   color: #cee9fd;
   padding: 20px;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .link {
