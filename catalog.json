@@ -823,6 +823,20 @@
     "virusTotal": "52 0 0"
   },
   {
+    "name": "SmartTube",
+    "version": "20.56",
+    "source": "https://github.com/yuliskov/SmartTube/releases/",
+    "size": "26.98 MB",
+    "download": "https://download.xrai.glass/apks/SmartTube_stable_20.56_arm64-v8a.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/smarttube.png",
+    "category": "Entertainment",
+    "description": "An unofficial YouTube client for Android TV",
+    "notes": "Note: you may, or may not, get a 3dof screen.  Updated January, 2024",
+    "color": "black",
+    "darkColor": "red",
+    "virusTotal": "59 0 0"
+  },
+  {
     "name": "SmartTV Twitch",
     "version": "3.0.350",
     "source": "Apkpure",
@@ -1017,5 +1031,17 @@
     "color": "red",
     "darkColor": "yellow",
     "virusTotal": "64 0 0"
+  },
+  {
+    "name": "Zattoo Ukrainian TV",
+    "version": "2.2345.1",
+    "source": "ApkCombo",
+    "size": "80.20 MB",
+    "download": "https://download.xrai.glass/apks/Zattoo - TV Streaming App_2.2345.1_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Zattoo.png",
+    "category": "Entertainment",
+    "description": "Only available in Switzerland, Germany and Austria. By Request.",
+    "notes": "Updated December 8, 2023",
+    "virusTotal": "62 0 0"
   }
 ]
