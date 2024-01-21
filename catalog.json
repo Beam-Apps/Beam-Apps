@@ -505,6 +505,18 @@
     "virusTotal": "58 1 0"
   },
   {
+    "name": "Microsoft Teams",
+    "version": "1416_1.0.0.2024012203",
+    "source": "ApkCombo",
+    "size": "159.32 MB",
+    "download": "https://download.xrai.glass/apks/Microsoft Teams_1416_1.0.0.2024012203_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSTeams.png",
+    "category": "Social Media",
+    "description": "Requires Google Play Services but seems to mostly work. No calendar or calendar functions.",
+    "notes": "Updated January 15, 2014",
+    "virusTotal": "49 0 0"
+  },
+  {
     "name": "Microsoft Word",
     "version": "16.0.17029.20028",
     "source": "Apkcombo",
