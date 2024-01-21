@@ -921,6 +921,18 @@
     "virusTotal": "64 0 0"
   },
   {
+    "name": "Udemy",
+    "version": "9.24.0",
+    "source": "ApkMirror",
+    "size": "49.90 MB",
+    "download": "https://download.xrai.glass/apks/com.udemy.android_9.24.0-546_apkmirror.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Udemy.png",
+    "category": "Reading",
+    "description": "Online study courses.",
+    "notes": "Can't purchase courses.  Updated December 12, 2023",
+    "virusTotal": "62 0 0"
+  }, 
+  {
     "name": "VLC for Android",
     "version": "3.5.4",
     "source": "Apkpure",
