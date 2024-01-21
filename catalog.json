@@ -1019,6 +1019,18 @@
     "virusTotal": "63 0 0"
   },
   {
+    "name": "Wiseplay",
+    "version": "8.1.22",
+    "source": "ApkCombo",
+    "size": "55.80 MB",
+    "download": "https://download.xrai.glass/apks/Wiseplay_8.1.22_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WisePlay.png",
+    "category": "Entertainment",
+    "description": "A video and playlist player. Compatible with the most used video formats and with m3u and w3u lists.",
+    "notes": "Updated December 19, 2023",
+    "virusTotal": "64 0 0"
+  },
+  {
     "name": "XBXPlay Remote Play",
     "version": "1.0.0",
     "source": "Apkpure",
