@@ -435,6 +435,18 @@
     "virusTotal": "64 1 0"
   },
   {
+    "name": "IPTV Smarters Pro",
+    "version": "3.1.5.1",
+    "source": "SmartersLite.com",
+    "size": "80.20 MB",
+    "download": "https://download.xrai.glass/apks/smarters.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SmartersLite.png",
+    "category": "Entertainment",
+    "description": "Offers more than 10,000+ Live TV channels, 20,000+ Movies and 10,000+ Series.",
+    "notes": "Subscription service or provide your own stream.  No Free TV.",
+    "virusTotal": "39 0 0"
+  },
+  {
     "name": "Kodi",
     "version": "20.2 Nexus",
     "source": "Kodi.tv/download/android",
