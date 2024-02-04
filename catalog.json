@@ -267,6 +267,18 @@
     "virusTotal": "64 0 0"
   },
   {
+    "name": "Crunchyroll",
+    "version": "3.47.0",
+    "source": "ApkCombo",
+    "size": "47.39 MB",
+    "download": "https://download.xrai.glass/apks/Crunchyroll_3.47.0_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Crunchyroll.png",
+    "category": "Entertainment",
+    "description": "Stream the world’s largest anime library.",
+    "notes": "Watch over 1,000 titles—from past seasons to new episodes fresh from Japan, including critically acclaimed Crunchyroll Originals.",
+    "virusTotal": "65 0 0"
+  },
+  {
     "name": "Cx File Explorer",
     "version": "2.0.3",
     "source": "Apkpure",
@@ -639,6 +651,18 @@
     "color": "yellow",
     "darkColor": "red",
     "virusTotal": "61 0 0"
+  },
+  {
+    "name": "Obsidian",
+    "version": "1.4.16",
+    "source": "ApkCombo",
+    "size": "11.59 MB",
+    "download": "https://download.xrai.glass/apks/Obsidian_1.4.16_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Obsidian.png",
+    "category": "Productivity",
+    "description": "Obsidian is the private and flexible writing app that adapts to the way you think.",
+    "notes": "Obsidian stores notes on your device, so you can access them quickly, even offline. No one else can read them, not even us.",
+    "virusTotal": "66 1 0"
   },
   {
     "name": "Opera",
