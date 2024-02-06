@@ -447,6 +447,18 @@
     "virusTotal": "64 1 0"
   },
   {
+    "name": "Instagram",
+    "version": "318.0.0.0.52",
+    "source": "Apkcombo",
+    "size": "63.14 MB",
+    "download": "https://download.xrai.glass/apks/Instagram_318.0.0.0.52_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Instagram.png",
+    "category": "UnTested",
+    "description": "Connect with friends, find other fans, and see what people around you are up to and into.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "63 0 0"
+  },
+  {
     "name": "IPTV Smarters Pro",
     "version": "3.1.5.1",
     "source": "SmartersLite.com",
@@ -595,6 +607,18 @@
     "color": "black",
     "darkColor": "red",
     "virusTotal": "64 1 0"
+  },
+  {
+    "name": "MS Remote Desktop",
+    "version": "10.0.18.1254",
+    "source": "Apkcombo",
+    "size": "42.06 MB",
+    "download": "https://download.xrai.glass/apks/Remote Desktop_10.0.18.1254_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/RemoteDesktop.png",
+    "category": "UnTested",
+    "description": "Access remote PCs running Windows Professional or Enterprise and Windows Server.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "62 0 0"
   },
   {
     "name": "MX Player",
@@ -882,7 +906,7 @@
     "download": "https://download.xrai.glass/apks/Steam Link_1.3.9_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SteamLink.png",
     "category": "UnTested",
-    "description": "Brings desktop gaming to your Android device",
+    "description": "Brings desktop gaming to your Android device.",
     "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
     "virusTotal": "60 0 0"
   },
