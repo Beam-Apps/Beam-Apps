@@ -875,6 +875,18 @@
     "virusTotal": "62 0 0"
   },
   {
+    "name": "SteamLink",
+    "version": "1.3.9",
+    "source": "Apkcombo",
+    "size": "117.79 MB",
+    "download": "https://download.xrai.glass/apks/Steam Link_1.3.9_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SteamLink.png",
+    "category": "UnTested",
+    "description": "Brings desktop gaming to your Android device",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "60 0 0"
+  },
+  {
     "name": "Stremio for Mobile",
     "version": "1.6.8",
     "source": "Stremio.com/downloads",
