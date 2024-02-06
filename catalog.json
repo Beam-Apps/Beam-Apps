@@ -335,6 +335,18 @@
     "virusTotal": "61 0 0"
   },
   {
+    "name": "FanFiction Reader",
+    "version": "1.63",
+    "source": "Apkcombo",
+    "size": "2.68 MB",
+    "download": "https://download.xrai.glass/apks/Fanfiction Reader_1.63_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/FanFiction.png",
+    "category": "UnTested",
+    "description": "An open source android browser for Fanfiction.net.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "61 1 0"
+  },
+  {
     "name": "Firefox Fast & Private Browser",
     "version": "120.0",
     "source": "Apkpure",
@@ -361,6 +373,18 @@
     "color": "yellow",
     "darkColor": "red",
     "virusTotal": "64 0 0"
+  },
+  {
+    "name": "GeForce Now",
+    "version": "6.08.33799584",
+    "source": "Apkcombo",
+    "size": "76.78 MB",
+    "download": "https://download.xrai.glass/apks/GeForce NOW_6.08.33799584_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/GeForeceNow.png",
+    "category": "UnTested",
+    "description": "Play titles you already own or purchase new games from popular digital stores like Steam, Epic Games Store, Ubisoft Connect, and EA.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "65 0 0"
   },
   {
     "name": "Google Chrome",
@@ -483,6 +507,18 @@
     "color": "black",
     "darkColor": "red",
     "virusTotal": "64 0 0"
+  },
+  {
+    "name": "Meta Messenger",
+    "version": "445.0.0.0.39",
+    "source": "Apkcombo",
+    "size": "61.99 MB",
+    "download": "https://download.xrai.glass/apks/Messenger_445.0.0.0.39_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/FaceBook Messenger.png",
+    "category": "UnTested",
+    "description": "Free group video chat, video calls, voice calls and text messaging.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "62 1 0"
   },
   {
     "name": "Microsoft Launcher",
