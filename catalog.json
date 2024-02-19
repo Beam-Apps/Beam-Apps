@@ -695,6 +695,18 @@
     "virusTotal": "54 0 0"
   },
   {
+    "name": "NaturalReader",
+    "version": "6.3",
+    "source": "ApkCombo",
+    "size": "11.55 MB",
+    "download": "https://download.xrai.glass/apks/NaturalReader_6.3_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/NaturalReader.png",
+    "category": "Reading",
+    "description": "NaturalReader is a mobile app that can read aloud a variety of texts like PDFs, online articles, cloud documents, even images taken by your camera and so many more.",
+    "notes": "Updated January 18, 2024",
+    "virusTotal": "61 0 0"
+  },
+  {
     "name": "NewPipe",
     "version": "0.25.2",
     "source": "Apkpure",
@@ -704,8 +716,6 @@
     "category": "Entertainment",
     "description": "A lightweight YouTube front-end for Android, NewPipe parses the YouTube website in order to gain the information it needs.",
     "notes": "By theScrabi\n Updated August 29, 2023",
-    "color": "black",
-    "darkColor": "red",
     "virusTotal": "64 0 0"
   },
   {
