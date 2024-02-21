@@ -345,6 +345,18 @@
     "virusTotal": "61 0 0"
   },
   {
+    "name": "Dropout TV",
+    "version": "8.402.3",
+    "source": "APKCombo",
+    "size": "25.98 MB",
+    "download": "https://download.xrai.glass/apks/DROPOUT TV_8.402.3_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/DropoutTV.png",
+    "category": "Entertainment",
+    "description": "Dropout is an uncensored, ad-less subscription comedy platform from CollegeHumor",
+    "notes": "Updated December 8, 2023",
+    "virusTotal": "64 0 0"
+  },
+  {
     "name": "Emby for Android TV",
     "version": "2.0.98g",
     "source": "Apkpure",
