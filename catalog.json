@@ -531,6 +531,18 @@
     "virusTotal": "39 0 0"
   },
   {
+    "name": "JellyFin",
+    "version": "0.16.6",
+    "source": "apkCombo",
+    "size": "96.03 MB",
+    "download": "https://download.xrai.glass/apks/Jellyfin for Android TV_0.16.5_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Jellyfin.png",
+    "category": "UnTested",
+    "description": "To use the app, you must have a Jellyfin server set up and running. Find out more at https://jellyfin.org/.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "65 0 0"
+  },
+  {
     "name": "Kodi",
     "version": "20.2 Nexus",
     "source": "Kodi.tv/download/android",
@@ -1061,6 +1073,18 @@
     "color": "red",
     "darkColor": "yellow",
     "virusTotal": "64 0 0"
+  },
+  {
+    "name": "TiviMate",
+    "version": "4.7.0",
+    "source": "apkCombo",
+    "size": "10.8 MB",
+    "download": "https://download.xrai.glass/apks/TiviMate_4.7.0_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/TiviMate.png",
+    "category": "UnTested",
+    "description": "With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "55 0 0"
   },
   {
     "name": "Udemy",
