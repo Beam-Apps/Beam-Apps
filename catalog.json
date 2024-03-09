@@ -451,6 +451,18 @@
     "virusTotal": "66 0 0"
   },
   {
+    "name": "HBO Max",
+    "version": "3.2.0.55_35333047",
+    "source": "apkMirror",
+    "size": "35.44 MB",
+    "download": "https://download.xrai.glass/apks/com.wbd.stream_HBO_Max_3.2.0.55_35333047_apkmirror.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/HBOmax.png",
+    "category": "UnTested",
+    "description": "Stream HBO, TV, & Movies. The app is now just called Max, I changed the name so you'd know what it is.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "61 0 0"
+  },
+  {
     "name": "Hulu",
     "version": "5.3.0+12541-google",
     "source": "Apkpure",
@@ -991,6 +1003,18 @@
     "color": "red",
     "darkColor": "yellow",
     "virusTotal": "62 0 0"
+  },
+  {
+    "name": "Starz",
+    "version": "5.12.0",
+    "source": "apkCombo",
+    "size": "22.86 MB",
+    "download": "https://download.xrai.glass/apks/STARZ_5.12.0_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Starz.png",
+    "category": "UnTested",
+    "description": "Bold Original Series. Hit movies. Full downloads.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "63 0 0"
   },
   {
     "name": "SteamLink",
