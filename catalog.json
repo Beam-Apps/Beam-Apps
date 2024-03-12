@@ -1067,6 +1067,18 @@
     "virusTotal": "63 0 0"
   },
   {
+    "name": "SurfShark",
+    "version": "3.5.0_305008203",
+    "source": "ApkMirror",
+    "size": "81.01 MB",
+    "download": "https://download.xrai.glass/apks/com.surfshark.vpnclient.android_3.5.0-305008203_apkmirror.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/SurfShark.png",
+    "category": "Tools",
+    "description": "Surfshark VPN - Private & Safe (website version)",
+    "notes": "Updated January 18, 2024",
+    "virusTotal": "61 0 0"
+  },
+  {
     "name": "Tachiyomi",
     "version": "0.14.7",
     "source": "https://tachiyomi.org/",
@@ -1133,6 +1145,18 @@
     "description": "With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.",
     "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
     "virusTotal": "55 0 0"
+  },
+  {
+    "name": "TuneIn Radio",
+    "version": "33.5.8",
+    "source": "ApkCombo",
+    "size": "84.42 MB",
+    "download": "https://download.xrai.glass/apks/TuneIn Radio_33.5.6_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/TuneInRadio.png",
+    "category": "Entertainment",
+    "description": "Listen to live internet radio news, sports and music on FM radio stations online.",
+    "notes": "Updated March 12, 2024",
+    "virusTotal": "56 0 0"
   },
   {
     "name": "Udemy",
