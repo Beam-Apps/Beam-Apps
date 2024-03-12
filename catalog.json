@@ -1005,6 +1005,30 @@
     "virusTotal": "62 0 0"
   },
   {
+    "name": "SpeedTest",
+    "version": "5.3.3_208100",
+    "source": "Apkcombo",
+    "size": "36.05 MB",
+    "download": "https://download.xrai.glass/apks/Speedtest_5.3.3_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Speedtest.png",
+    "category": "Tools",
+    "description": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.",
+    "notes": "Updated February 19, 2024",
+    "virusTotal": "63 0 0"
+  },
+  {
+    "name": "Spotify",
+    "version": "8.9.20.574",
+    "source": "Apkcombo",
+    "size": "84.59 MB",
+    "download": "https://download.xrai.glass/apks/Spotify_8.9.20.574_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Spotify.png",
+    "category": "Entertainment",
+    "description": "Listen to songs, play podcasts, create playlists and discover music you'll love",
+    "notes": "Updated March 8, 2024",
+    "virusTotal": "62 0 0"
+  },
+  {
     "name": "Starz",
     "version": "5.12.0",
     "source": "apkCombo",
