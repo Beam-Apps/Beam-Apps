@@ -44,17 +44,17 @@
   },
   {
     "name": "Amazon Kindle",
-    "version": "8.89.3.0(2.0.2766.0)",
-    "source": "Apkpure",
-    "size": "107 MB",
-    "download": "https://download.xrai.glass/apks/Amazon%20Kindle_8.89.3.0(2.0.2766.0)_Apkpure.apk",
+    "version": "8.96.0.100(2.0.11021.0)",
+    "source": "ApkCombo",
+    "size": "107.65 MB",
+    "download": "https://download.xrai.glass/apks/Amazon Kindle_8.96.0.100(2.0.11021.0)_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kindle.png",
     "category": "Reading",
     "description": "Read anytime, anywhere, the Kindle app puts millions of books, magazines, newspapers, comics, and manga at your fingertips",
     "notes": "Use D-pad setting for easy page flipping",
     "color": "red",
     "darkColor": "red",
-    "virusTotal": "49 0 0"
+    "virusTotal": "60 0 0"
   },
   {
     "name": "APKCombo Installer",
@@ -321,28 +321,28 @@
     "version": "222.13 - Stable",
     "source": "ApkCombo",
     "size": "268.04 MB",
-    "download": "https://download.xrai.glass/apks/Discord_ Talk,%20Chat%20&%20Hang%20Out_204.18%20-%20Stable_Apkpure.apk",
+    "download": "https://download.xrai.glass/apks/Discord_222.13_Stable_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Discord.png",
     "category": "Social Media",
     "description": "Join a chat group on Discord to stay close and engaged with your friends and communities",
     "notes": "Updated Novemeber 15, 2023",
     "color": "black",
     "darkColor": "red",
-    "virusTotal": "62 0 0"
+    "virusTotal": "59 0 0"
   },
   {
     "name": "Disney+",
-    "version": "2.25.2-rc3",
-    "source": "Apkpure",
-    "size": "35.06 MB",
-    "download": "https://download.xrai.glass/apks/Disney+_2.25.2-rc3_Apkpure.apk",
+    "version": "3.1.1_rc3",
+    "source": "ApkCombo",
+    "size": "60.56 MB",
+    "download": "https://download.xrai.glass/apks/Disney Plus_3.1.1_rc3_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/DisneyPlus.png",
     "category": "Entertainment",
     "description": "Stream and download exclusive Disney+ movies and TV shows on your mobile device at anytime and anywhere",
     "notes": "Updated Novemeber 29, 2023",
     "color": "red",
     "darkColor": "red",
-    "virusTotal": "61 0 0"
+    "virusTotal": "62 0 0"
   },
   {
     "name": "Dropout TV",
