@@ -1257,9 +1257,9 @@
   {
     "name": "WireGuard",
     "version": "1.0.20231018",
-    "source": "Apkpure",
+    "source": "ApkCombo",
     "size": "8.58 MB",
-    "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_Apkpure.apk",
+    "download": "https://download.xrai.glass/apks/WireGuard_1.0.20231018_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/WireGuardVPN.png",
     "category": "Tools",
     "description": "The official app for managing WireGuard VPN tunnels.",
