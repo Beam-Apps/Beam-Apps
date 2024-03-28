@@ -384,17 +384,15 @@
   },
   {
     "name": "Firefox Fast & Private Browser",
-    "version": "120.0",
+    "version": "124.1.0_2016010538",
     "source": "Apkpure",
-    "size": "91.43 MB",
-    "download": "https://download.xrai.glass/apks/Firefox%20Fast%20&%20Private%20Browser_120.0_Apkpure.apk",
+    "size": "93.83 MB",
+    "download": "https://download.xrai.glass/apks/org.mozilla.firefox_124.1.0_2016010538_apkmirror.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Firefox.png",
     "category": "Productivity",
     "description": "Firefox is a private and fast browser that blocks trackers and scripts in all windows to protect your security",
-    "notes": "Updated Novemeber 27, 2023",
-    "color": "black",
-    "darkColor": "red",
-    "virusTotal": "54 1 0"
+    "notes": "Updated March 24, 2024",
+    "virusTotal": "59 0 0"
   },
   {
     "name": "Fox News",
@@ -412,15 +410,15 @@
   },
   {
     "name": "GeForce Now",
-    "version": "6.08.33799584",
+    "version": "6.11.34071029",
     "source": "Apkcombo",
-    "size": "76.78 MB",
-    "download": "https://download.xrai.glass/apks/GeForce NOW_6.08.33799584_apkcombo.com.apk",
+    "size": "80.84 MB",
+    "download": "https://download.xrai.glass/apks/GeForce NOW_6.11.34071029_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/GeForeceNow.png",
     "category": "UnTested",
     "description": "Play titles you already own or purchase new games from popular digital stores like Steam, etc.",
     "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
-    "virusTotal": "65 0 0"
+    "virusTotal": "61 0 0"
   },
   {
     "name": "Google Chrome",
@@ -692,14 +690,14 @@
   },
   {
     "name": "Moonlight",
-    "version": "12.0.2",
+    "version": "12.1",
     "source": "Apkcombo",
-    "size": "6.41 MB",
-    "download": "https://download.xrai.glass/apks/Moonlight_12.0.2_apkcombo.com.apk",
+    "size": "6.45 MB",
+    "download": "https://download.xrai.glass/apks/Moonlight_12.1_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MoonLight.png",
     "category": "Gaming",
     "description": "Stream games, programs, or your full desktop from a PC running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs).",
-    "notes": "Updated November 4, 2023",
+    "notes": "Updated March 5, 2024",
     "color": "black",
     "darkColor": "red",
     "virusTotal": "64 1 0"
@@ -756,14 +754,14 @@
   },
   {
     "name": "Nova Launcher",
-    "version": "8.0.8",
+    "version": "8.0.14",
     "source": "Apkcombo",
-    "size": "10.77 MB",
-    "download": "https://download.xrai.glass/apks/Nova Launcher_8.0.8_apkcombo.com.apk",
+    "size": "10.94 MB",
+    "download": "https://download.xrai.glass/apks/Nova Launcher_8.0.14_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/nova.png",
     "category": "Launchers",
     "description": "Replace Eva with Nova Launcher.\nThis is a powerful, customizable, and versatile home screen replacement.",
-    "notes": "Updated October 29, 2023",
+    "notes": "Updated February 13, 2024",
     "color": "black",
     "darkColor": "red",
     "virusTotal": "65 0 0"
