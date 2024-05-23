@@ -292,15 +292,15 @@
   },
   {
     "name": "Crunchyroll",
-    "version": "3.52.4",
+    "version": "3.57.0",
     "source": "ApkCombo",
-    "size": "48.23 MB",
-    "download": "https://download.xrai.glass/apks/Crunchyroll_3.52.4_apkcombo.com.apk",
+    "size": "47.48 MB",
+    "download": "https://download.xrai.glass/apks/Crunchyroll_3.57.0_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Crunchyroll.png",
     "category": "Entertainment",
     "description": "Stream the world’s largest anime library.",
     "notes": "Watch over 1,000 titles—from past seasons to new episodes fresh from Japan, including critically acclaimed Crunchyroll Originals.",
-    "virusTotal": "63 0 0"
+    "virusTotal": "65 0 0"
   },
   {
     "name": "Cx File Explorer",
