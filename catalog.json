@@ -329,6 +329,18 @@
     "color": "black",
     "darkColor": "red",
     "virusTotal": "59 0 0"
+  },  
+  {
+    "name": "Discovery GO",
+    "version": "3.53.0",
+    "source": "ApkCombo",
+    "size": "21.09 MB",
+    "download": "https://download.xrai.glass/apks/DiscoveryGO_3.53.0_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/DIscoveryGo.png",
+    "category": "Entertainment",
+    "description": "Catch up with your favorite Discovery shows and more from up to 14 networks.",
+    "notes": "Updated April 30, 2024",
+    "virusTotal": "64 0 0"
   },
   {
     "name": "Disney+",
@@ -807,6 +819,18 @@
     "virusTotal": "57 0 0"
   },
   {
+    "name": "Opera GX",
+    "version": "2.5.4",
+    "source": "Apkcombo",
+    "size": "45.81 MB",
+    "download": "https://download.xrai.glass/apks/Opera GX_2.5.4_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/OperaGX.png",
+    "category": "Productivity",
+    "description": "Experience the only browser created for gamers!",
+    "notes": "Updated June 11, 2024",
+    "virusTotal": "38 0 0"
+  },
+  {
     "name": "Paramount+",
     "version": "12.0.70",
     "source": "Apkpure",
@@ -1062,6 +1086,18 @@
     "notes": " ",
     "color": "red",
     "darkColor": "yellow",
+    "virusTotal": "63 0 0"
+  },
+   {
+    "name": "Stremio for Android TV",
+    "version": "1.6.9_9145761",
+    "source": "Stremio.com/downloads",
+    "size": "73.61 MB",
+    "download": "https://download.xrai.glass/apks/com.stremio.one-1.6.9-9145761-arm64-v8a.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Stremio.png",
+    "category": "Entertainment",
+    "description": "A streaming application that allows you to watch and organize video content from different services including movies, live TV and video channels.",
+    "notes": "Android TV version ",
     "virusTotal": "63 0 0"
   },
   {
