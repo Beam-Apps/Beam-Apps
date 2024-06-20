@@ -950,6 +950,18 @@
     "color": "black",
     "darkColor": "yellow",
     "virusTotal": "54 0 0"
+  },  
+  {
+    "name": "Revanced",
+    "version": "0.9",
+    "source": "Apkcombo",
+    "size": "14.56 MB",
+    "download": "https://download.xrai.glass/apks/Revanced_0.9_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Revanced.png",
+    "category": "Entertainment",
+    "description": "NO ADS while playing video or music, No microG, No root.",
+    "notes": "Updated June 9, 2024",
+    "virusTotal": "66 0 0"
   },
   {
     "name": "Samsung S10 Launcher",
@@ -1364,6 +1376,18 @@
     "color": "red",
     "darkColor": "yellow",
     "virusTotal": "64 0 0"
+  },  
+  {
+    "name": "YouTube for Android TV",
+    "version": "4.40.303",
+    "source": "Apkmirror",
+    "size": "27.67 MB",
+    "download": "https://download.xrai.glass/apks/com.google.android.youtube.tv_4.40.303-440303330_apkmirror.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Youtube.png",
+    "category": "Entertainment",
+    "description": "No login available.  Switch Interaction to directional keys.",
+    "notes": "Updated May 14, 2024",
+    "virusTotal": "69 0 0"
   },
   {
     "name": "Zattoo Ukrainian TV",
