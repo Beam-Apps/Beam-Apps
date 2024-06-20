@@ -564,6 +564,18 @@
     "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
     "virusTotal": "65 0 0"
   },
+   {
+      "name": "Kiwi Browser",
+      "version": "124.0.6327.4",
+      "source": "ApkCombo",
+      "size": "270.46 MB",
+      "download": "https://download.xrai.glass/apks/Kiwi Browser_124.0.6327.4_apkcombo.com.apk",
+      "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Kiwi.png",
+      "category": "Productivity",
+      "description": "Kiwi is based on Chromium and WebKit, the engine that powers the most popular browser in the world so you won't lose your habits.",
+      "notes": "Updated April 28, 2024",
+      "virusTotal": "67 0 0"
+    },
   {
     "name": "Kodi",
     "version": "20.2 Nexus",
@@ -740,6 +752,18 @@
     "darkColor": "red",
     "virusTotal": "54 0 0"
   },
+   {
+    "name": "myCANAL",
+    "version": "5.36.0",
+    "source": "Apkcombo",
+    "size": "23.87 MB",
+    "download": "https://download.xrai.glass/apks/myCANAL_5.36.0_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/myCanal.png",
+    "category": "Entertainment",
+    "description": "Follow the big moments live, find your shows on replay even offline and discover our personalised recommendations on all your screens. ",
+    "notes": "No US regions!   Updated June 14, 2024",
+    "virusTotal": "63 0 0"
+  },
   {
     "name": "NaturalReader",
     "version": "6.3",
@@ -857,6 +881,19 @@
     "color": "black",
     "darkColor": "yellow",
     "virusTotal": "64 0 0"
+  },
+  
+  {
+    "name": "Perfect Viewer",
+    "version": "5.0.4.2",
+    "source": "Apkcombo",
+    "size": "14.75 MB",
+    "download": "https://download.xrai.glass/apks/Perfect Viewer_5.0.4.2_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/PerfectViewer.png",
+    "category": "Reading",
+    "description": "Perfect Viewer is a very fast image/comics/ebook viewer.",
+    "notes": "Updated May 5, 2023",
+    "virusTotal": "68 0 0"
   },
   {
     "name": "Plex",
