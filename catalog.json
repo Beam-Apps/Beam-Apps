@@ -196,6 +196,18 @@
     "darkColor": "green",
     "virusTotal": "64 0 0"
   },
+    {
+    "name": "BBC iPlayer",
+    "version": "5.16.2.31869",
+    "source": "Apkcombo",
+    "size": "53.84 MB",
+    "download": "https://download.xrai.glass/apks/BBC iPlayer_5.16.2.31869_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/BBCiPlayer.png",
+    "category": "UnTested",
+    "description": "Watch or download the latest BBC TV series, Sports or News coverage in one place.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "67 0 0"
+  },
   {
     "name": "Bloomberg",
     "version": "6.10.0.4171988",
@@ -723,6 +735,18 @@
     "virusTotal": "64 0 0"
   },
   {
+    "name": "Molotov TV",
+    "version": "4.15.24",
+    "source": "Apkcombo",
+    "size": "41.48 MB",
+    "download": "https://download.xrai.glass/apks/Molotov_4.15.24_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Molotov.png",
+    "category": "UnTested",
+    "description": "French: all TV programs and series in streaming, live and replay.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "65 0 0"
+  },
+  {
     "name": "Moon+ Reader",
     "version": "8.5",
     "source": "Apkpure",
@@ -799,6 +823,18 @@
     "description": "NaturalReader is a mobile app that can read aloud a variety of texts like PDFs, online articles, cloud documents, even images taken by your camera and so many more.",
     "notes": "Updated January 18, 2024",
     "virusTotal": "61 0 0"
+  },
+    {
+    "name": "Nebula",
+    "version": "3.1.1",
+    "source": "Apkcombo",
+    "size": "29.76 MB",
+    "download": "https://download.xrai.glass/apks/Nebula_3.1.1_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Nubula.png",
+    "category": "UnTested",
+    "description": "Videos. Podcasts. Classes. Creator-built and creator-owned.",
+    "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
+    "virusTotal": "66 0 0"
   },
   {
     "name": "NewPipe",
