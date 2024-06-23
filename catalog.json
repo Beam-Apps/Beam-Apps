@@ -355,6 +355,18 @@
     "color": "red",
     "darkColor": "red",
     "virusTotal": "62 0 0"
+  },  
+  {
+    "name": "Dofu Live",
+    "version": "2.2.21",
+    "source": "ApkCombo",
+    "size": "27.11 MB",
+    "download": "https://download.xrai.glass/apks/Dofu Live NFL NBA MLB NHL NCAA_2.2.21_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Dofu.png",
+    "category": "Entertainment",
+    "description": "The Application for Live NFL NBA MLB NHL NCAAF",
+    "notes": "Stay tuned to live all sports action, scores, odds, standings, and real-time data in ONE APPLICATION!",
+    "virusTotal": "68 0 0"
   },
   {
     "name": "Dropout TV",
@@ -563,6 +575,18 @@
     "description": "To use the app, you must have a Jellyfin server set up and running. Find out more at https://jellyfin.org/.",
     "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
     "virusTotal": "65 0 0"
+  },  
+  {
+    "name": "Khan Academy",
+    "version": "8.1.1",
+    "source": "Apkcombo",
+    "size": "85.22 MB",
+    "download": "https://download.xrai.glass/apks/Khan Academy_8.1.1_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/KhanAcademy.png",
+    "category": "Reading",
+    "description": "Learn anything, for free: Thousands of interactive exercises, videos, and articles at your fingertips. Study math, science, economics, finance, grammar, history, government, politics, and much, much more.",
+    "notes": "Updated March 18, 2024",
+    "virusTotal": "63 0 0"
   },
    {
       "name": "Kiwi Browser",
