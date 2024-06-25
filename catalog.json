@@ -276,6 +276,18 @@
     "notes": "UnTested: please leave a post on the Xreal Reddit about your experience with this app.",
     "virusTotal": "66 0 0"
   },
+   {
+    "name": "Chordify",
+    "version": "1886",
+    "source": "Apkcombo",
+    "size": "97.58 MB",
+    "download": "https://download.xrai.glass/apks/Chordify_1886_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Chordify.png",
+    "category": "Utilities",
+    "description": "Play any song you want! 36 million guitar, ukulele, mandolin and piano chords",
+    "notes": "Updated June 20, 2024",
+    "virusTotal": "68 0 0"
+  },
   {
     "name": "Chrome Remote Desktop",
     "version": "1.4",
