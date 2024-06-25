@@ -1022,7 +1022,19 @@
     "color": "black",
     "darkColor": "yellow",
     "virusTotal": "54 0 0"
-  },  
+  },
+   {
+    "name": "RetroArch Plus",
+    "version": "1.19.1",
+    "source": "Apkcombo",
+    "size": "149.76 MB",
+    "download": "https://download.xrai.glass/apks/RetroArch Plus_1.19.1_GIT_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/RetroArch.png",
+    "category": "Entertainment",
+    "description": "Perfectly suited for creating games, emulators and multimedia programs.",
+    "notes": "Go to "Online Updater -> Core Updater" from within the app to download modular programs called 'cores'.",
+    "virusTotal": "58 0 0"
+  },
   {
     "name": "Revanced",
     "version": "0.9",
