@@ -1147,6 +1147,18 @@
     "darkColor": "yellow",
     "virusTotal": "62 0 0"
   },
+    {
+    "name": "Spatial",
+    "version": "6.122.0.86526",
+    "source": "Apkcombo",
+    "size": "103.73 MB",
+    "download": "https://download.xrai.glass/apks/Spatial_6.122.0.86526_apkcombo.com.apk",
+    "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Spatial.png",
+    "category": "Entertainment",
+    "description": "Dive into Spatial Games SZN 1 Powered By Unity! ",
+    "notes": "Very laggy, may not work well enough.",
+    "virusTotal": "66 0 0"
+  },
   {
     "name": "SpeedTest",
     "version": "5.3.3_208100",
