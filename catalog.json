@@ -713,7 +713,7 @@
     "size": "159.32 MB",
     "download": "https://download.xrai.glass/apks/Microsoft Teams_1416_1.0.0.2024012203_apkcombo.com.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/MSTeams.png",
-    "category": "Social Media",
+    "category": "Productivity",
     "description": "Requires Google Play Services but seems to mostly work. No calendar or calendar functions.",
     "notes": "Updated January 15, 2014",
     "virusTotal": "49 0 0"
@@ -974,7 +974,7 @@
     "size": "138.88 MB",
     "download": "https://download.xrai.glass/apks/Plex Stream Movies & TV_10.3.0.4685_Apkpure.apk",
     "icon": "https://raw.githubusercontent.com/MSmithDev/Beam-Apps-Catalog/main/icons/Plex.png",
-    "category": "Gaming",
+    "category": "Entertainment",
     "description": "Subscription free streaming that brings over 600 channels of your favorite TV shows, free movies, and Live TV straight to you.",
     "notes": "Updated Novemeber 7?, 2023",
     "color": "red",
